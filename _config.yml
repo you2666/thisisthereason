@@ -1,12 +1,12 @@
-title :              "와이두유리브"
-tagline :            "위대한 일이 아니어도 괜찮아. 생각하는 대로 살기"
-email :              "vividjjjj@naver.com"
-description :        "표백시대를 살고 있는 나의 이 순간을 기록하자. 생각하는 대로 살지 않으면 사는 대로 생각하게 되니까. 오늘 보다 내일이 더 기대되는 삶을 살아가기 위해, 언제든 어디서나 다시 꺼내볼 수 있도록."
-author :             "제이"
-baseurl :            "/"
-url :                "https://thisisthereason.com"
-locale :             "ko_KR"
-thumbnail :          "/img/thumbnail.jpg"
+title:              "와이두유리브"
+tagline:            "위대한 일이 아니어도 괜찮아. 생각하는 대로 살기"
+email:              "vividjjjj@naver.com"
+description:        "표백시대를 살고 있는 나의 이 순간을 기록하자. 생각하는 대로 살지 않으면 사는 대로 생각하게 되니까. 오늘 보다 내일이 더 기대되는 삶을 살아가기 위해, 언제든 어디서나 다시 꺼내볼 수 있도록."
+author:             "제이"
+baseurl:            "/"
+url:                "https://thisisthereason.com"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
 
 # Social Profiles
 twitter_username:   twitter_username
@@ -15,15 +15,15 @@ facebook_username:  facebook_username
 linkedin_username:  linkedin_username
 
 # Build settings
-markdown :           kramdown
-permalink :          /:title
-paginate :           5
-paginate_path :      "/posts/page:num/"
-plugins :
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
 
 # 블로그 disqus shortname
-    disqus :
-      shortname : lucy-this
+disqus:
+  shortname: lucy-this
