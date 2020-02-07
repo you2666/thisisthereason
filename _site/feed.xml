@@ -2,12 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>와이두유리브</title>
-    <description>표백시대를 살고 있는 나의 이 순간을 기록하자. 생각하는 대로 살지 않으면 사는 대로 생각하게 될 테니까. 오늘 보다 내일이 더 기대되는 삶을 만들어가기 위한 여정</description>
+    <description>그레이트 화이트 홀 속에서 살고 있는 지금 이 순간을 기록하는 블로그. 오늘 보다 내일이 좀 더 기대되는 삶을 살기 위해, 지금 생각하는 대로 살기.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Feb 2020 12:57:34 +0900</pubDate>
-    <lastBuildDate>Sun, 02 Feb 2020 12:57:34 +0900</lastBuildDate>
+    <pubDate>Fri, 07 Feb 2020 10:56:45 +0900</pubDate>
+    <lastBuildDate>Fri, 07 Feb 2020 10:56:45 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>디지털 마케팅 공부하기</title>
+        <description>&lt;h2 id=&quot;네이버-서치어드바이저-정리&quot;&gt;네이버 서치어드바이저 정리&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/002/naver.jpg&quot; alt=&quot;네이버 웹마스터도구&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;검색엔진-최적화의-목적&quot;&gt;검색엔진 최적화의 목적&lt;/h4&gt;
+
+&lt;p&gt;웹 상에는 수 많은 웹사이트가 존재한다. 그 중 한국의 공룡 포털 네이버에는 사이트 정보를 수집하고 검색에 노출해주는 검색 로봇이 있다. 이름은 예티(Yeti). 네이버 검색 로봇은 사이트 정보를 수집해 검색에 반영한다. 웹 표준을 준수해 제작된 사이트로 신뢰할 수 있고, 많은 사람이 방문하는 곳이거나 많은 사람이 인용한다면 예티가 더 빨리 알아차릴수 있다. 하지만, 이 블로그는 쇼핑몰도 아니고 글도 아직 없어서 활성화되지 않았기 때문에 예티가 이 블로그를 알아차리는 데 많은 시간이 필요하다. 그러니까, 예티에게 사이트를 알려주자. 이 검색엔진 최적화 작업은 사이트 내 콘텐츠 정보를 검색엔진이 잘 이해할 수 있도록 정리하는 작업으로 콘텐츠의 내용을 명확하게 네이버 검색엔진에게 전달해 내 콘텐츠가 네이버의 검색 결과에 누락되지 않도록 알려줄 수 있다. 아래는 네이버에서 볼 수 있는 가이드 중 내가 기억해야할 일부를 정리한다. 원본은 &lt;a href=&quot;https://searchadvisor.naver.com/&quot;&gt;네이버 서치어드바이저&lt;/a&gt; 사이트에서 볼 수 있다.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-웹마스터도구에-내-사이트를-등록하고-소유-확인&quot;&gt;1. 웹마스터도구에 내 사이트를 등록하고 소유 확인&lt;/h4&gt;
+
+&lt;p&gt;사이트 등록은 호스트 단위만 지원하며, 소유 확인은 HTML의 meta 태그를 활용하는 방법 혹은 HTML 파일 업로드를 통해서 진행할 수 있다.&lt;/p&gt;
+
+&lt;h4 id=&quot;2-네이버-검색로봇이-사이트에-접근할-수-있도록-허용&quot;&gt;2. 네이버 검색로봇이 사이트에 접근할 수 있도록 허용&lt;/h4&gt;
+
+&lt;p&gt;사이트의 문서에 네이버 검색로봇의 접근이 가능하게 하려면 robots.txt를 아래처럼 설정해야한다. 이 블로그는 지킬을 이용했다. 그래서 내 블로그 폴더 안에 robots.txt 파일을 생성하고 아래 내용을 입력하고 저장한다. robots.txt에 대한 자세한 설명은 &lt;a href=&quot;https://searchadvisor.naver.com/guide/seo-basic-robots&quot;&gt;robots.txt 설정하기&lt;/a&gt;를 참고하면 된다.&lt;/p&gt;
+
+&lt;p&gt;(예) 모든 검색엔진의 로봇에 대하여 접근 가능하게 설정&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;User&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;agent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Yeti&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;Allow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;Sitemap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;https&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//thisisthereason.com/sitemap.xml&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;(예) 네이버 검색로봇만 접근 가능하게 설정&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;User&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;agent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Yeti&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;Allow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;3-중복된-콘텐츠가-있는지-확인&quot;&gt;3. 중복된 콘텐츠가 있는지 확인&lt;/h4&gt;
+
+&lt;p&gt;검색 노출량을 늘이기 위하여 동일한 콘텐츠로 구성된 여러 개의 사이트를 개설하는 경우 검색 노출에 불이익을 받을 수 있다. 무료 이미지 공유 사이트인 &lt;a href=&quot;https://pixabay.com/ko/&quot;&gt;픽사베이&lt;/a&gt;의 이미지보다 내가 폰 카메라로 대충 찍은 사진이 더 좋은 콘텐츠로 분류된다. 중복이 없으니까. 또, 모든 페이지의 제목을 동일하게 쓰지 말라고 권고한다. 페이지의 제목은 콘텐츠 주제를 정확하게 설명할 수 있는 문구로 써야하며, 더 자세한 내용은 &lt;a href=&quot;https://searchadvisor.naver.com/guide/markup-intro&quot;&gt;HTML 마크업 가이드&lt;/a&gt;를 참고하면 된다.&lt;/p&gt;
+
+&lt;h4 id=&quot;4-웹마스터도구에-사이트맵-및-rss&quot;&gt;4. 웹마스터도구에 사이트맵 및 RSS&lt;/h4&gt;
+
+&lt;p&gt;사이트맵은 사이트 내의 수집 대상 URL 목록을 담은 XML 형식의 파일로 웹마스터도구의 “요청-사이트맵 제출” 메뉴에서 XML 형식의 사이트맵을 제출할 수 있다. 사이트 내의 최신글은 본문 전체를 포함하여 RSS 피드에 담아야 하며, 웹마스터도구의 “요청-RSS 제출” 메뉴에서 RSS 피드를 제출하면 된다. RSS 피드와 사이트 맵을 아톰에서 추가했고, 네이버에는 URL로 제출했다. 아래는 RSS 피드 예시.&lt;/p&gt;
+
+&lt;h4 id=&quot;5-웹마스터도구에-채널-등록---연관채널&quot;&gt;5. 웹마스터도구에 채널 등록 - 연관채널&lt;/h4&gt;
+
+&lt;p&gt;채널은 네이버 블로그, 카페, 페이스북, 인스타그램 등 운영하고 있는 소셜 미디어의 계정으로 일반적으로 쇼핑몰 등의 사이트를 검색했을 때 하단에 연관채널이라고 나와 있는 부분이다. Microdata 형식과 JSON-LD 형식으로 구현할 수 있다. &amp;lt;head&amp;gt;…&amp;lt;/head&amp;gt;에 넣어주면 된다. 아래는 JSON-LD 예시.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;application/ld+json&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;@context&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://schema.org&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;@type&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;My Site Name&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://www.mysite.com&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;sameAs&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+   &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;https://www.facebook.com/myfacebook&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+   &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://blog.naver.com/myblog&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+   &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://storefarm.naver.com/mystore&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;6-네이버-검색-결과-확인&quot;&gt;6. 네이버 검색 결과 확인&lt;/h4&gt;
+
+&lt;p&gt;네이버의 검색로봇이 방문한 뒤 최대 1주일 이내에 사이트의 콘텐츠가 검색에 반영되며, 네이버 검색창에 사이트명을 입력해 확인할 수 있다. 추가로 웹마스터도구에서 제공하는 &lt;a href=&quot;https://searchadvisor.naver.com/guide/report-expose-ctr&quot;&gt;콘텐츠 노출 및 클릭&lt;/a&gt; 리포트를 활용하여 본인이 등록한 웹사이트가 네이버 검색 결과에 얼마나 노출되고 클릭 되었는지 성과를 확인해보자. 사이트의 메인 페이지가 검색 노출이 안되는 경우에는 내 사이트가 네이버 검색로봇의 접근을 허용하고 있는지 robots.txt 와 방화벽 설정을 다시 한번 확인하자. 메인 페이지의 meta 태그에 noindex 처리가 되어있다면 해제해야한다. noindex가 표기된 페이지는 검색 반영에서 제외된다.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;robots&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;noindex&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;사이트 제목과 설명은 검색엔진에서 엄격하게 관리하고 있으므로 정책에 위반되는 항목이 없는지 &lt;a href=&quot;https://searchadvisor.naver.com/guide/markup-intro&quot;&gt;HTML 마크업 가이드&lt;/a&gt;를 다시한번 참고하고, 사이트 메인 페이지의 정보를 HTML frame 태그로 감싸고 있는지 체크해보자. frame 태그가 일으키는 문제로 인하여 사이트 메인 페이지와 같은 중요한 페이지에는 frame 태그 대신 일반 HTML 태그를 사용하는 것을 권장한다.&lt;/p&gt;
+
+&lt;h4 id=&quot;7-사이트의-콘텐츠가-검색에-반영이-안된다면&quot;&gt;7. 사이트의 콘텐츠가 검색에 반영이 안된다면&lt;/h4&gt;
+
+&lt;p&gt;페이지의 meta 태그에 noindex 처리가 되어있다면 해제. noindex가 표기된 페이지는 검색 반영에서 제외된다. 페이지 내의 모든 콘텐츠가 자바스크립트로 로딩되는 구조인지 확인해야한다. 대부분의 검색엔진은 표준 HTML 마크업을 사용하여 콘텐츠를 제공하는 것을 권장한다. 페이지 내의 모든 콘텐츠를 HTML frame 태그로 감싸고 있는지 확인하자. 페이지의 중요한 콘텐츠는 frame 태그 대신 일반 HTML 태그를 사용하는 것을 권장한다. 페이지 로딩 시 자바스크립트 사용하여 redirect 되는지 확인하자. 가급적 HTTP redirect 또는 HTML의 head 태그 내 meta refresh를 활용하는 것을 권장한다.&lt;/p&gt;
+
+&lt;h4 id=&quot;8-네이버-검색-결과에-반영되는-사이트-내의-문서-수가-적다면-페이지-내-링크-확인&quot;&gt;8. 네이버 검색 결과에 반영되는 사이트 내의 문서 수가 적다면 페이지 내 링크 확인&lt;/h4&gt;
+
+&lt;p&gt;웹마스터도구에 제출된 사이트맵 및 RSS 가 올바르게 표기되었는지 확인하자. 특히, 제출된 사이트맵 및 RSS 내의 링크가 상대 경로로 지정되어 있는 경우, 링크의 호스트가 등록된 사이트와 일치하지 않는 경우 수집을 진행하지 않는다. 페이지의 meta 태그에 nofollow 처리가 되어있다면 해제해야한다. nofollow가 표기된 페이지의 경우 페이지 내 링크 수집을 진행하지 않는다.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;robots&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;nofollow&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;페이지들의 링크 처리 시 자바스크립트만을 사용하면, 검색로봇이 어떤 URL 인지 정확하게 파악할 수 없어서 이후의 다른 좋은 정보들을 찾아갈 수 없는 문제가 있다. 네이버의 예티에게 내 사이트 내부 페이지를 잘 알려주기 위해서는 표준에 맞는 링크 URL정보를 제공하는 것을 권장한다.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://www.A.com&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Link&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+해당 링크가 어떤 URL 인지 정확하게 확인할 수 있음
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;onClick=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;javascript:goto(A)&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Link&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+대상 링크가 자바스크립트 함수로만 표현되어 있어서 검색로봇은 해당 링크의 정확한 URL을 파악할
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 06 Feb 2020 07:30:00 +0900</pubDate>
+        <link>http://localhost:4000//digitalmarketing/study-naver/</link>
+        <guid isPermaLink="true">http://localhost:4000//digitalmarketing/study-naver/</guid>
+        
+        <category>디지털마케팅</category>
+        
+        <category>마케팅공부</category>
+        
+        <category>용어알기(네이버 서치어드바이저)</category>
+        
+        <category>디지털노마드</category>
+        
+        
+        <category>digitalmarketing</category>
+        
+      </item>
     
       <item>
         <title>브런치는 아니지만 퇴사이야기</title>
@@ -15,29 +118,27 @@
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/001/email.jpg&quot; alt=&quot;이메일&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;처음 사회생활을 시작한 신입때는 내가 속한 직장, 명함, 이메일 사회의 구성원이 되었다는 사실이 좋았다. 그리고 나보다 더 나이가 많은 사람들과 동등한 위치에서 이야기를 하고, 일을 배우는 것도 힘들었지만 재밌었다. 업무에 대한 개념이 없어서 혼나기도 많이 했지만, 점점 프로페셔널 하게 처리한 느낌이 들면 되게 뿌듯했었다. 그리고 행사 때 멋지게 프레젠테이션 하는 분을 보며 “와 대학교 발표랑은 비교가 안되는구나 멋있다. 나도 나중에 저렇게 될 수 있는 거겠지?” 했었다.&lt;/p&gt;
+&lt;p&gt;처음 사회생활을 시작한 스물 다섯 그 때의 파릇파릇한 나는 어딘가에 소속되어 있다는 소속감을 주는 내 명함에 박힌 회사명과 내 이메일을 부여 받으며, 비로소 사회의 한 구성원, 경제활동 인구에 포함이 되었다는 사실이 좋았다. 연륜도 경력도 나보다 훨씬 많은 직장 동료와 직원이라는 동등한 위치에서 이야기를 하는 것도 혼자 뿌듯해했다. 신입이 다 그렇듯 개념이 없어서 혼나기도 했지만, 비즈니스 매너도 배우고, 어제보다 오늘, 오늘보다 내일 실수도 없어지고, 더욱 프로페셔널해지는 느낌을 받으면서 혼자서 즐거웠던 기억이 있다. 종종 세미나를 진행하면서 함께 일하는 한국지사 임원의 카리스마 있고, 멋진 프레젠테이션을 보며 “와 대학교 발표랑은 비교가 안되는구나 멋있다. 나도 나중에 저렇게 될 수 있는 거겠지?” 했었다. (지금 돌이켜봐도 그 분이 독보적인 거였다. 연차가 쌓이면 누구나 잘하는게 아니었어….)&lt;/p&gt;
 
-&lt;p&gt;그 당시에 퇴사를 한 계기는 회사합병으로 인해 우리팀이 뿔뿔이 흩어졌는데.. 그러다보니 R&amp;amp;R이 이상해졌다. 낮에는 할 일이 없어서 웹툰을 보며 시간을 보냈고, 퇴근시간에 갑자기 던져지는 심지어 내 일도 아닌, 내일 오전 회의 자료 취합이 황당했지만, 해야 했다. 난 분명이 기획팀이었는데, 구매팀에 사람이 없다면서 매출채권한도 심사나 서류 정리도 내가 하다보니 점점 정체성이 흔들렸다. 그래서 안되겠다 싶어 퇴사를 하게 되고, 20대 후반은 백수로 보내게 된다. 백수 였긴한데 한가했거나 쉬었던 기억은 없는 게 꼭 지금 같다. (……..) 모든 경제력을 잃었을 때 백수 생활을 청산하고 두 번째 회사에 입사하게 되었다. 연봉은 심지어 첫 회사 신입보다 적었는데도 수락한 이유는 두 가지 였다. 집에서 가까웠기 때문이고, 외국계 기업이기 때문이었다. 첫 회사에서 일할 때 외국계벤더 한국지사로 근무하는 사람들이 다 멋있었다는 이유였는데, 외국계기업은 내 로망이기도 했었다.&lt;/p&gt;
+&lt;p&gt;첫 회사를 결국 퇴사를 한 계기는 회사합병이었다. 팀이 해체되고, 낮에는 할 일이 없어서 웹툰을 보며 시간을 보냈고, 퇴근시간에 갑자기 던져지는 심지어 내 일도 아닌, 내일 오전 회의 자료 취합을 하면서 이대로 괜찮을까 싶었다. 그리고 난 분명 기획팀이었는데, 구매팀에 사람이 없다면서 매출채권한도 심사나 서류 정리도 내가 하다보니 점점 정체성이 흔들렸다. 그만둘까 싶었던 첫 번째 이유는 학자금이 끝나서 안그래도 각을 재고 있었는데, 자기는 숫자 자신없다고 당당히 말해서 모든 일은 나에게 넘긴 옆자리 대리님은 옆에서 매일 대학원 논문을 쓰고 있는 것도.. 썩 좋게만 생각할 수 없었다. 그 몇달사이에 회사에서 논문을 완성하셨으니, 그것도 자기복이지만. 새로온 팀장이 내 여름휴가를 잘랐다. (?? 난 비행기표 예매도 다했는데) 그래서 휴가에 맞춰 그만뒀고, 일을 하다가 안하니까 너무 좋아서 20대 후반은 백수로 보냈다. 나에게 주어진 모든 시간과 돈을 다 쓰고나서야 일할 마음이 생겨, 두 번째 회사에 입사하게 되었다. 연봉은 심지어 첫 회사 신입보다 적었는데도 수락한 이유는 두 가지 였다. 집에서 가까웠기 때문이고, 외국계 기업이기 때문이었다. 첫 회사에서 일할 때 외국계벤더 한국지사로 근무하는 사람들이 다 멋있었다는 이유였는데, 외국계기업은 내 로망이기도 했었다.&lt;/p&gt;
 
 &lt;h2 id=&quot;두-번째--외국계기업-새로운-회사&quot;&gt;두 번째 : 외국계기업, 새로운 회사&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/001/jump.jpg&quot; alt=&quot;이메일&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;모든 연령대 심지어 10대 조차 부러워 하는 20대와 이별한 지가 엊그제 같은데 이제 빼박 30대라니. 나는 20대 시절 내가 어리다는 것, 실수를 하거나 조금 개념이 없어도 나잇값 못한다는 소리는 듣지 않을 시절이라는 것을 알고 있었다. 어른들은 내 실수와 미숙함을 보아 넘겨주고, 무모함과 열정도 어느정도 인정해 주는 나이라는 것도. 뭐든지 느렸던 나는 3년의 직장생활 후 3년을 부유하는 시간을 보냈다. 그리고 시도했던 모든 일들이 20대에 해 봐서 다행이라고 생각했기 때문에 내 20대는 정말 딱 시원섭섭했다. 이제는 어디로 봐도 어리다고 할 수 없는 나이가 되었다. 어디가서 나이값을 못한다는 말은 듣지 말아야지. 옛날의 30대와 다르다고 하지만.. 여전히 내 머리속의 30대는 생각도 말도 마음씀씀이도 20대와는 달라야 하는 나이다. 25살의 내가 결혼은 하지 않겠다고 했을 때 다들 믿지 않았는데, 지금은 아 그렇구나 할 나이가 되었으니까. 더 나이를 먹으면 못 하는 거 아니냐는 소리를 듣게 되지 않을까. 그게 30대다.&lt;/p&gt;
+&lt;p&gt;모든 연령대 심지어 10대 조차 부러워 하는 20대와 이별한 지가 엊그제 같은데 이제 빼박 30대라니. 나는 20대 시절 내가 어리다는 것, 실수를 하거나 조금 개념이 없어도 나잇값 못한다는 소리는 듣지 않을 시절이라는 것을 알고 있었다. 어른들은 내 실수와 미숙함을 보아 넘겨주고, 무모함과 열정도 어느정도 인정해 주는 나이라는 것도. 뭐든지 느렸던 나는 3년의 직장생활 후 3년을 부유하는 시간을 보냈다. 그리고 시도했던 모든 일들이 20대에 해 봐서 다행이라고 생각했기 때문에 내 20대는 정말 딱 시원섭섭했다. 이제는 어디로 봐도 어리다고 할 수 없는 나이가 되었다. 어디가서 나이값을 못한다는 말은 듣지 말아야지. 옛날의 30대와 다르다고 하지만.. 여전히 내 머리속의 30대는 생각도 말도 마음씀씀이도 20대와는 달라야 하는 나이다. 25살의 내가 결혼은 하지 않겠다고 했을 때 다들 믿지 않았는데, 지금은 아 그렇구나 할 나이가 되었으니까. 더 나이를 먹으면 못 하는 거 아니냐는 소리를 듣게 되지 않을까. 그게 30대다. 그 30대를 맞이하며 두 번째 회사에 들어갔다.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“로망인 회사에서 나는 왜 퇴사를 했나”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h4 id=&quot;로망인-회사에서-나는-왜-퇴사를-했나&quot;&gt;로망인 회사에서 나는 왜 퇴사를 했나&lt;/h4&gt;
 
-&lt;p&gt;팩트만 말하자면, 3년을 일했으니까, 이제 다시 쉴 타이밍이다. 모든 일은 적응하는 1년이 가장 재밌는 것 같다. 2년이 되자 흥미도가 떨어졌다. 빠르게 돌아가는 업계에서는 새로운 일, 재밌는 일이 계속 생겨나지만, 아쉽게도 외국계기업은 한국지사가 마음대로 할 수 있는 자유도가 굉장히 낮고, 나의 두 번째 회사는 새로운 일에 별 관심이 없었다. 팀장도 팀원도 좋은 사람들이어서 3년이나 있었던 것이지, 내 로망만큼 멋있었나 생각해보면 잘 모르겠다. 별 일이 없었다면 회사가 도보거리라서 더 오랫동안 다녔을 수도 있었겠지만, 아이쿠 건강이 나빠졌다. 그래서 내 일처리 효율이 극도로 낮아졌고, 실수도 생기고, 그러면서 정신적 건강도 피폐해지는 느낌이 들어 서둘러 자체 요양을 결정했다. 백수생활 결심. 솔직히, 이 건강악화의 원인은 회사가 아니라 집 층간소음에 있다는 건 알고 있었지만, 대출받은 거라 당장 이사할 수 있는 상황이 아니었다. 겸사겸사 낮에 자고 새벽까지 깨어 있는 생활을 하고 있는 중 이긴 한데, 앞으로는 어떻게 해야 하나 걱정 중이다. 일부 내 계획이 어그러진 부분도 있고. 우선 현재로서는 건강을 회복하고, 여름에 다시 일을 시작할 생각이다. 근데, 난 분명히 퇴사한 지 두 달이 되었는데, 여전히 쉬고 있다는 생각이 들지 않는 이유는 뭘까. 당장 2월에는 어디 나가지 않고, 집에서 블로그만 하면서 쉬어야지.&lt;/p&gt;
+&lt;p&gt;팩트만 말하자면, 3년을 일했으니까, 이제 다시 쉴 타이밍이었다. 일은 적응하는 1년이 가장 재밌는 것 같다. 사실, 2년이 되자 흥미도가 떨어졌다. 빠르게 돌아가는 업계에서는 새로운 일, 재밌는 일이 계속 생겨나지만, 아쉽게도 외국계기업은 한국지사가 마음대로 할 수 있는 자유도가 굉장히 낮고, 나의 두 번째 회사는 새로운 일에 별 관심이 없었다. 팀장도 팀원도 좋은 사람들이어서 3년이나 있었던 것이지, 내 로망만큼 멋있었나 생각해보면 잘 모르겠다. 별 일이 없었다면 회사가 도보거리라서 더 오랫동안 다녔을 수도 있었겠지만, 아이쿠 건강이 나빠졌다. 그래서 내 일처리 효율이 극도로 낮아졌고, 실수도 생기고, 그러면서 정신 건강도 피폐해지는 느낌이 들어 서둘러 백수생활 결심했다. 솔직히, 이 건강악화의 원인은 회사가 아니라 집 층간소음에 있다는 건 알고 있었지만, 대출받은 거라 당장 이사할 수 있는 상황이 아니었다. 겸사겸사 낮에 자고 새벽까지 깨어 있는 생활을 하고 있는 중 이긴 한데, 앞으로는 어떻게 해야 하나 걱정 중이다. 일부 내 계획이 어그러진 부분도 있고. 우선 현재로서는 건강을 회복하고, 여름에 다시 일을 시작할 생각이다. 근데, 난 분명히 퇴사한 지 두 달이 되었는데, 여전히 쉬고 있다는 생각이 들지 않는 이유는 뭘까. 당장 2월에는 어디 나가지 않고, 집에서 블로그만 하면서 쉬어야지.&lt;/p&gt;
 
 &lt;h2 id=&quot;백수의-삶--위대하지-않아도-괜찮아&quot;&gt;백수의 삶 : 위대하지 않아도 괜찮아&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/001/rest.jpg&quot; alt=&quot;이메일&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;당장에 고정적인 수입이 없으니까, 단 돈 1원이라도 소득을 만들어보는게 2월의 목표. 이 블로그는 삶의 방향을 찾아가는 이야기와 독서일기가 꾸준히 업데이트 될 예정이다. 그리고 내 일인 마케팅도.&lt;/p&gt;
+&lt;p&gt;당장에 고정적인 수입이 없으니까, 단 돈 1원이라도 소득을 만들어보는게 2월의 목표. 이 블로그는 복잡하게 생각할 줄 모르는 내가 좀 더 다양한 각도로 삶을 경험할 수 있기를 바라며, 삶의 방향을 찾아가는  각종 리뷰가 꾸준히 업데이트 될 블로그이다. 그리고 내 일인 마케팅 관련해서 내가 공부하고 있는 내용도 함께.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 02 Feb 2020 11:30:00 +0900</pubDate>
+        <pubDate>Sun, 02 Feb 2020 10:12:00 +0900</pubDate>
         <link>http://localhost:4000//start/</link>
         <guid isPermaLink="true">http://localhost:4000//start/</guid>
         
@@ -50,7 +151,11 @@
         <category>와이두유리브</category>
         
         
+        <category></category>
+        
         <category>백수이야기</category>
+        
+        <category></category>
         
       </item>
     
