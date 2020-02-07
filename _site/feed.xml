@@ -5,8 +5,8 @@
     <description>그레이트 화이트 홀 속에서 살고 있는 지금 이 순간을 기록하는 블로그. 오늘 보다 내일이 좀 더 기대되는 삶을 살기 위해, 지금 생각하는 대로 살기.</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Feb 2020 10:56:45 +0900</pubDate>
-    <lastBuildDate>Fri, 07 Feb 2020 10:56:45 +0900</lastBuildDate>
+    <pubDate>Fri, 07 Feb 2020 16:23:22 +0900</pubDate>
+    <lastBuildDate>Fri, 07 Feb 2020 16:23:22 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -21,11 +21,15 @@
 
 &lt;h4 id=&quot;1-웹마스터도구에-내-사이트를-등록하고-소유-확인&quot;&gt;1. 웹마스터도구에 내 사이트를 등록하고 소유 확인&lt;/h4&gt;
 
-&lt;p&gt;사이트 등록은 호스트 단위만 지원하며, 소유 확인은 HTML의 meta 태그를 활용하는 방법 혹은 HTML 파일 업로드를 통해서 진행할 수 있다.&lt;/p&gt;
+&lt;p&gt;사이트 등록은 호스트 단위만 지원하며, 소유 확인은 HTML의 meta 태그를 활용하는 방법 혹은 HTML 파일 업로드를 통해서 진행할 수 있다. 나는 head에 메타태그 삽입하는 방법으로 진행했다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/002/ownsite.jpg&quot; alt=&quot;사이트소유확인&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;2-네이버-검색로봇이-사이트에-접근할-수-있도록-허용&quot;&gt;2. 네이버 검색로봇이 사이트에 접근할 수 있도록 허용&lt;/h4&gt;
 
 &lt;p&gt;사이트의 문서에 네이버 검색로봇의 접근이 가능하게 하려면 robots.txt를 아래처럼 설정해야한다. 이 블로그는 지킬을 이용했다. 그래서 내 블로그 폴더 안에 robots.txt 파일을 생성하고 아래 내용을 입력하고 저장한다. robots.txt에 대한 자세한 설명은 &lt;a href=&quot;https://searchadvisor.naver.com/guide/seo-basic-robots&quot;&gt;robots.txt 설정하기&lt;/a&gt;를 참고하면 된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/002/robots.jpg&quot; alt=&quot;검색로봇예티&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;(예) 모든 검색엔진의 로봇에 대하여 접근 가능하게 설정&lt;/p&gt;
 
@@ -43,7 +47,7 @@
 
 &lt;h4 id=&quot;3-중복된-콘텐츠가-있는지-확인&quot;&gt;3. 중복된 콘텐츠가 있는지 확인&lt;/h4&gt;
 
-&lt;p&gt;검색 노출량을 늘이기 위하여 동일한 콘텐츠로 구성된 여러 개의 사이트를 개설하는 경우 검색 노출에 불이익을 받을 수 있다. 무료 이미지 공유 사이트인 &lt;a href=&quot;https://pixabay.com/ko/&quot;&gt;픽사베이&lt;/a&gt;의 이미지보다 내가 폰 카메라로 대충 찍은 사진이 더 좋은 콘텐츠로 분류된다. 중복이 없으니까. 또, 모든 페이지의 제목을 동일하게 쓰지 말라고 권고한다. 페이지의 제목은 콘텐츠 주제를 정확하게 설명할 수 있는 문구로 써야하며, 더 자세한 내용은 &lt;a href=&quot;https://searchadvisor.naver.com/guide/markup-intro&quot;&gt;HTML 마크업 가이드&lt;/a&gt;를 참고하면 된다.&lt;/p&gt;
+&lt;p&gt;검색 노출량을 늘이기 위하여 동일한 콘텐츠로 구성된 여러 개의 사이트를 개설하는 경우 검색 노출에 불이익을 받을 수 있다. 무료 이미지 공유 사이트인 &lt;a href=&quot;https://pixabay.com/ko/&quot;&gt;픽사베이&lt;/a&gt;의 이미지보다 내가 폰 카메라로 대충 찍은 사진이 더 좋은 콘텐츠로 분류된다. 유일한 콘텐츠고, 중복이 아니기 때문이다. 또, 모든 페이지의 제목을 동일하게 쓰지 말라고 권고한다. 페이지의 제목은 콘텐츠 주제를 정확하게 설명할 수 있는 문구로 써야하며, 더 자세한 내용은 &lt;a href=&quot;https://searchadvisor.naver.com/guide/markup-intro&quot;&gt;HTML 마크업 가이드&lt;/a&gt;를 참고하면 된다.&lt;/p&gt;
 
 &lt;h4 id=&quot;4-웹마스터도구에-사이트맵-및-rss&quot;&gt;4. 웹마스터도구에 사이트맵 및 RSS&lt;/h4&gt;
 
@@ -51,18 +55,21 @@
 
 &lt;h4 id=&quot;5-웹마스터도구에-채널-등록---연관채널&quot;&gt;5. 웹마스터도구에 채널 등록 - 연관채널&lt;/h4&gt;
 
-&lt;p&gt;채널은 네이버 블로그, 카페, 페이스북, 인스타그램 등 운영하고 있는 소셜 미디어의 계정으로 일반적으로 쇼핑몰 등의 사이트를 검색했을 때 하단에 연관채널이라고 나와 있는 부분이다. Microdata 형식과 JSON-LD 형식으로 구현할 수 있다. &amp;lt;head&amp;gt;…&amp;lt;/head&amp;gt;에 넣어주면 된다. 아래는 JSON-LD 예시.&lt;/p&gt;
+&lt;p&gt;채널은 네이버 블로그, 카페, 페이스북, 인스타그램 등 운영하고 있는 소셜 미디어의 계정으로 일반적으로 쇼핑몰 등의 사이트를 검색했을 때 하단에 연관채널이라고 나와 있는 부분이다. Microdata 형식과 JSON-LD 형식으로 구현할 수 있다. &amp;lt;head&amp;gt;…&amp;lt;/head&amp;gt;에 넣어주면 된다. 아래는 내가 잘 이용하는 쿠팡 JSON-LD 예시.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/002/coupang.jpg&quot; alt=&quot;쿠팡연관채널&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;application/ld+json&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;@context&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://schema.org&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;@type&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
- &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;My Site Name&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
- &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://www.mysite.com&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;쿠팡&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;https://www.coupang.com&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;sameAs&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
-   &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;https://www.facebook.com/myfacebook&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-   &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://blog.naver.com/myblog&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-   &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://storefarm.naver.com/mystore&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+   &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;https://tv.naver.com/coupangtv&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+   &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;https://www.instagram.com/coupang&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+   &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;https://www.facebook.com/Coupang.korea&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+   &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;https://story.kakao.com/ch/coupang&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
  &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -80,7 +87,7 @@
 
 &lt;p&gt;페이지의 meta 태그에 noindex 처리가 되어있다면 해제. noindex가 표기된 페이지는 검색 반영에서 제외된다. 페이지 내의 모든 콘텐츠가 자바스크립트로 로딩되는 구조인지 확인해야한다. 대부분의 검색엔진은 표준 HTML 마크업을 사용하여 콘텐츠를 제공하는 것을 권장한다. 페이지 내의 모든 콘텐츠를 HTML frame 태그로 감싸고 있는지 확인하자. 페이지의 중요한 콘텐츠는 frame 태그 대신 일반 HTML 태그를 사용하는 것을 권장한다. 페이지 로딩 시 자바스크립트 사용하여 redirect 되는지 확인하자. 가급적 HTTP redirect 또는 HTML의 head 태그 내 meta refresh를 활용하는 것을 권장한다.&lt;/p&gt;
 
-&lt;h4 id=&quot;8-네이버-검색-결과에-반영되는-사이트-내의-문서-수가-적다면-페이지-내-링크-확인&quot;&gt;8. 네이버 검색 결과에 반영되는 사이트 내의 문서 수가 적다면 페이지 내 링크 확인&lt;/h4&gt;
+&lt;h4 id=&quot;8-네이버-검색-결과에-반영되는-문서-수가-적다면-페이지-내-링크-확인&quot;&gt;8. 네이버 검색 결과에 반영되는 문서 수가 적다면 페이지 내 링크 확인&lt;/h4&gt;
 
 &lt;p&gt;웹마스터도구에 제출된 사이트맵 및 RSS 가 올바르게 표기되었는지 확인하자. 특히, 제출된 사이트맵 및 RSS 내의 링크가 상대 경로로 지정되어 있는 경우, 링크의 호스트가 등록된 사이트와 일치하지 않는 경우 수집을 진행하지 않는다. 페이지의 meta 태그에 nofollow 처리가 되어있다면 해제해야한다. nofollow가 표기된 페이지의 경우 페이지 내 링크 수집을 진행하지 않는다.&lt;/p&gt;
 
@@ -103,7 +110,7 @@
         
         <category>마케팅공부</category>
         
-        <category>용어알기(네이버 서치어드바이저)</category>
+        <category>서치어드바이저</category>
         
         <category>디지털노마드</category>
         

@@ -3,14 +3,14 @@ layout: post
 permalink: /digitalmarketing/study-naver/
 title: '디지털 마케팅 공부하기'
 date: 2020-02-06 07:30:00 +09:00
-feature: '/img/posts/002/digitalmarkteing-naver.jpg'
-background: '/img/posts/002/back-digitalmarkteing-naver.jpg'
+feature: '/img/posts/002/naver-search.jpg'
+background: '/img/posts/002/back-digitalmarketing.jpg'
 categories:
   - digitalmarketing
 tags:
   - 디지털마케팅
   - 마케팅공부
-  - 용어알기(네이버 서치어드바이저)
+  - 서치어드바이저
   - 디지털노마드
 description: 'HTML, CSS, JavaScript에 대한 아주아주 기초적인 공부를 했다. 개발자는 아니지만, 디지털 마케팅을 하기 위한 기초가 필요했기 때문인데 이 카테고리에서는 공부한 기초 지식을 사용하는 디지털 마케팅에 대해 다뤄볼 예정이며 첫 번째 글은 네이버 서치어드바이저이다.'
 ---
@@ -27,11 +27,15 @@ description: 'HTML, CSS, JavaScript에 대한 아주아주 기초적인 공부�
 
 #### 1. 웹마스터도구에 내 사이트를 등록하고 소유 확인
 
-사이트 등록은 호스트 단위만 지원하며, 소유 확인은 HTML의 meta 태그를 활용하는 방법 혹은 HTML 파일 업로드를 통해서 진행할 수 있다. 
+사이트 등록은 호스트 단위만 지원하며, 소유 확인은 HTML의 meta 태그를 활용하는 방법 혹은 HTML 파일 업로드를 통해서 진행할 수 있다. 나는 head에 메타태그 삽입하는 방법으로 진행했다. 
+
+![사이트소유확인](/img/posts/002/ownsite.jpg)
 
 #### 2. 네이버 검색로봇이 사이트에 접근할 수 있도록 허용
 
 사이트의 문서에 네이버 검색로봇의 접근이 가능하게 하려면 robots.txt를 아래처럼 설정해야한다. 이 블로그는 지킬을 이용했다. 그래서 내 블로그 폴더 안에 robots.txt 파일을 생성하고 아래 내용을 입력하고 저장한다. robots.txt에 대한 자세한 설명은 [robots.txt 설정하기](https://searchadvisor.naver.com/guide/seo-basic-robots)를 참고하면 된다.
+
+![검색로봇예티](/img/posts/002/robots.jpg)
 
 (예) 모든 검색엔진의 로봇에 대하여 접근 가능하게 설정
 
@@ -51,7 +55,7 @@ Allow: /
 
 #### 3. 중복된 콘텐츠가 있는지 확인
 
-검색 노출량을 늘이기 위하여 동일한 콘텐츠로 구성된 여러 개의 사이트를 개설하는 경우 검색 노출에 불이익을 받을 수 있다. 무료 이미지 공유 사이트인 [픽사베이](https://pixabay.com/ko/)의 이미지보다 내가 폰 카메라로 대충 찍은 사진이 더 좋은 콘텐츠로 분류된다. 중복이 없으니까. 또, 모든 페이지의 제목을 동일하게 쓰지 말라고 권고한다. 페이지의 제목은 콘텐츠 주제를 정확하게 설명할 수 있는 문구로 써야하며, 더 자세한 내용은 [HTML 마크업 가이드](https://searchadvisor.naver.com/guide/markup-intro)를 참고하면 된다. 
+검색 노출량을 늘이기 위하여 동일한 콘텐츠로 구성된 여러 개의 사이트를 개설하는 경우 검색 노출에 불이익을 받을 수 있다. 무료 이미지 공유 사이트인 [픽사베이](https://pixabay.com/ko/)의 이미지보다 내가 폰 카메라로 대충 찍은 사진이 더 좋은 콘텐츠로 분류된다. 유일한 콘텐츠고, 중복이 아니기 때문이다. 또, 모든 페이지의 제목을 동일하게 쓰지 말라고 권고한다. 페이지의 제목은 콘텐츠 주제를 정확하게 설명할 수 있는 문구로 써야하며, 더 자세한 내용은 [HTML 마크업 가이드](https://searchadvisor.naver.com/guide/markup-intro)를 참고하면 된다. 
 
 #### 4. 웹마스터도구에 사이트맵 및 RSS
 
@@ -59,19 +63,22 @@ Allow: /
 
 #### 5. 웹마스터도구에 채널 등록 - 연관채널
 
-채널은 네이버 블로그, 카페, 페이스북, 인스타그램 등 운영하고 있는 소셜 미디어의 계정으로 일반적으로 쇼핑몰 등의 사이트를 검색했을 때 하단에 연관채널이라고 나와 있는 부분이다. Microdata 형식과 JSON-LD 형식으로 구현할 수 있다. <head>...</head>에 넣어주면 된다. 아래는 JSON-LD 예시. 
+채널은 네이버 블로그, 카페, 페이스북, 인스타그램 등 운영하고 있는 소셜 미디어의 계정으로 일반적으로 쇼핑몰 등의 사이트를 검색했을 때 하단에 연관채널이라고 나와 있는 부분이다. Microdata 형식과 JSON-LD 형식으로 구현할 수 있다. <head>...</head>에 넣어주면 된다. 아래는 내가 잘 이용하는 쿠팡 JSON-LD 예시. 
+
+![쿠팡연관채널](/img/posts/002/coupang.jpg)
 
 ```html
 <script type="application/ld+json">
 {
  "@context": "http://schema.org",
  "@type": "Person",
- "name": "My Site Name",
- "url": "http://www.mysite.com",
+ "name": "쿠팡",
+ "url": "https://www.coupang.com",
  "sameAs": [
-   "https://www.facebook.com/myfacebook",
-   "http://blog.naver.com/myblog",
-   "http://storefarm.naver.com/mystore"
+   "https://tv.naver.com/coupangtv",
+   "https://www.instagram.com/coupang",
+   "https://www.facebook.com/Coupang.korea"
+   "https://story.kakao.com/ch/coupang"
  ]
 }
 ```
@@ -90,7 +97,7 @@ Allow: /
 
 페이지의 meta 태그에 noindex 처리가 되어있다면 해제. noindex가 표기된 페이지는 검색 반영에서 제외된다. 페이지 내의 모든 콘텐츠가 자바스크립트로 로딩되는 구조인지 확인해야한다. 대부분의 검색엔진은 표준 HTML 마크업을 사용하여 콘텐츠를 제공하는 것을 권장한다. 페이지 내의 모든 콘텐츠를 HTML frame 태그로 감싸고 있는지 확인하자. 페이지의 중요한 콘텐츠는 frame 태그 대신 일반 HTML 태그를 사용하는 것을 권장한다. 페이지 로딩 시 자바스크립트 사용하여 redirect 되는지 확인하자. 가급적 HTTP redirect 또는 HTML의 head 태그 내 meta refresh를 활용하는 것을 권장한다.
 
-#### 8. 네이버 검색 결과에 반영되는 사이트 내의 문서 수가 적다면 페이지 내 링크 확인
+#### 8. 네이버 검색 결과에 반영되는 문서 수가 적다면 페이지 내 링크 확인
 
 웹마스터도구에 제출된 사이트맵 및 RSS 가 올바르게 표기되었는지 확인하자. 특히, 제출된 사이트맵 및 RSS 내의 링크가 상대 경로로 지정되어 있는 경우, 링크의 호스트가 등록된 사이트와 일치하지 않는 경우 수집을 진행하지 않는다. 페이지의 meta 태그에 nofollow 처리가 되어있다면 해제해야한다. nofollow가 표기된 페이지의 경우 페이지 내 링크 수집을 진행하지 않는다.
 
