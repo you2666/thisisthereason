@@ -1,21 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>와이두유리브</title>
-    <description>그레이트 화이트 홀 속에서 살고 있는 지금 이 순간을 기록하는 블로그. 오늘 보다 내일이 좀 더 기대되는 삶을 살기 위해, 지금 생각하는 대로 살기.</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Feb 2020 16:23:22 +0900</pubDate>
-    <lastBuildDate>Fri, 07 Feb 2020 16:23:22 +0900</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
-    
-      <item>
-        <title>디지털 마케팅 공부하기</title>
-        <description>&lt;h2 id=&quot;네이버-서치어드바이저-정리&quot;&gt;네이버 서치어드바이저 정리&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-16T12:47:00+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">와이두유리브</title><subtitle>독서리뷰와 마케팅 이야기. 사는대로 생각하지 말고, 생각하는 대로 살기.</subtitle><author><name>제이</name></author><entry><title type="html">디지털 마케팅 공부하기</title><link href="http://localhost:4000/digitalmarketing/webmaster-naver/" rel="alternate" type="text/html" title="디지털 마케팅 공부하기" /><published>2020-02-06T07:30:00+09:00</published><updated>2020-02-06T07:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/webmaster-naver</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/webmaster-naver/">&lt;h2 id=&quot;네이버-서치어드바이저-정리&quot;&gt;네이버 서치어드바이저 정리&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/002/naver.jpg&quot; alt=&quot;네이버 웹마스터도구&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;검색엔진-최적화의-목적&quot;&gt;검색엔진 최적화의 목적&lt;/h4&gt;
+&lt;h3 id=&quot;검색엔진-최적화의-목적&quot;&gt;검색엔진 최적화의 목적&lt;/h3&gt;
 
 &lt;p&gt;웹 상에는 수 많은 웹사이트가 존재한다. 그 중 한국의 공룡 포털 네이버에는 사이트 정보를 수집하고 검색에 노출해주는 검색 로봇이 있다. 이름은 예티(Yeti). 네이버 검색 로봇은 사이트 정보를 수집해 검색에 반영한다. 웹 표준을 준수해 제작된 사이트로 신뢰할 수 있고, 많은 사람이 방문하는 곳이거나 많은 사람이 인용한다면 예티가 더 빨리 알아차릴수 있다. 하지만, 이 블로그는 쇼핑몰도 아니고 글도 아직 없어서 활성화되지 않았기 때문에 예티가 이 블로그를 알아차리는 데 많은 시간이 필요하다. 그러니까, 예티에게 사이트를 알려주자. 이 검색엔진 최적화 작업은 사이트 내 콘텐츠 정보를 검색엔진이 잘 이해할 수 있도록 정리하는 작업으로 콘텐츠의 내용을 명확하게 네이버 검색엔진에게 전달해 내 콘텐츠가 네이버의 검색 결과에 누락되지 않도록 알려줄 수 있다. 아래는 네이버에서 볼 수 있는 가이드 중 내가 기억해야할 일부를 정리한다. 원본은 &lt;a href=&quot;https://searchadvisor.naver.com/&quot;&gt;네이버 서치어드바이저&lt;/a&gt; 사이트에서 볼 수 있다.&lt;/p&gt;
 
@@ -51,7 +38,7 @@
 
 &lt;h4 id=&quot;4-웹마스터도구에-사이트맵-및-rss&quot;&gt;4. 웹마스터도구에 사이트맵 및 RSS&lt;/h4&gt;
 
-&lt;p&gt;사이트맵은 사이트 내의 수집 대상 URL 목록을 담은 XML 형식의 파일로 웹마스터도구의 “요청-사이트맵 제출” 메뉴에서 XML 형식의 사이트맵을 제출할 수 있다. 사이트 내의 최신글은 본문 전체를 포함하여 RSS 피드에 담아야 하며, 웹마스터도구의 “요청-RSS 제출” 메뉴에서 RSS 피드를 제출하면 된다. RSS 피드와 사이트 맵을 아톰에서 추가했고, 네이버에는 URL로 제출했다. 아래는 RSS 피드 예시.&lt;/p&gt;
+&lt;p&gt;사이트맵은 사이트 내의 수집 대상 URL 목록을 담은 XML 형식의 파일로 웹마스터도구의 “요청-사이트맵 제출” 메뉴에서 XML 형식의 사이트맵을 제출할 수 있다. 사이트 내의 최신글은 본문 전체를 포함하여 RSS 피드에 담아야 하며, 웹마스터도구의 “요청-RSS 제출” 메뉴에서 RSS 피드를 제출하면 된다. RSS 피드와 사이트 맵을 아톰에서 추가했고, 네이버에는 URL로 제출했다.&lt;/p&gt;
 
 &lt;h4 id=&quot;5-웹마스터도구에-채널-등록---연관채널&quot;&gt;5. 웹마스터도구에 채널 등록 - 연관채널&lt;/h4&gt;
 
@@ -101,27 +88,71 @@
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;onClick=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;javascript:goto(A)&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Link&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
 대상 링크가 자바스크립트 함수로만 표현되어 있어서 검색로봇은 해당 링크의 정확한 URL을 파악할
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-        <pubDate>Thu, 06 Feb 2020 07:30:00 +0900</pubDate>
-        <link>http://localhost:4000//digitalmarketing/study-naver/</link>
-        <guid isPermaLink="true">http://localhost:4000//digitalmarketing/study-naver/</guid>
-        
-        <category>디지털마케팅</category>
-        
-        <category>마케팅공부</category>
-        
-        <category>서치어드바이저</category>
-        
-        <category>디지털노마드</category>
-        
-        
-        <category>digitalmarketing</category>
-        
-      </item>
-    
-      <item>
-        <title>브런치는 아니지만 퇴사이야기</title>
-        <description>&lt;h2 id=&quot;첫-번째--나의-첫-사회생활&quot;&gt;첫 번째 : 나의 첫 사회생활&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/002/search.jpg&quot; alt=&quot;검색최적화&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;네이버가-권장하는-좋은-콘텐츠&quot;&gt;네이버가 권장하는 좋은 콘텐츠&lt;/h3&gt;
+
+&lt;p&gt;네이버 검색에서는 어떤 글이 잘 노출되고 어떤 글은 잘 노출되지 않는다. 네이버 카페나 블로그에 떠돌아 다니는 다양한 글들과 바이럴 업체에게 들었던 이야기는 지금 사용하지 않더라도 몇 년 전에 만든 블로그가 훨씬 더 가치가 있고, 신규 블로그보다 상위노출이 쉽다는 이야기를 들었다. (진짜인지는 모르겠다.) 네이버가 생각하는 블로그의 좋은 문서와 나쁜 문서는 어떤 기준으로 분류되고 있는지 정확하게 알아두자. 그리고 검색어를 고려한 글쓰기를 시작해보자.&lt;/p&gt;
+
+&lt;h4 id=&quot;네이버-검색이-생각하는-좋은-블로그-콘텐츠&quot;&gt;네이버 검색이 생각하는 좋은 블로그 콘텐츠&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;신뢰할 수 있는 정보를 기반으로 작성한 글&lt;/li&gt;
+  &lt;li&gt;물품이나 장소 등에 대해 본인이 직접 경험하여 작성한 후기&lt;/li&gt;
+  &lt;li&gt;다른 문서를 복사하거나 짜깁기 하지 않고 독자적인 정보로서의 가치를 지닌 글&lt;/li&gt;
+  &lt;li&gt;해당주제에 대해 도움이 될 만한 충분하 길이의 정보와 분석내용을 포함한 글&lt;/li&gt;
+  &lt;li&gt;읽는 사람이 북마크하거나 친구에게 공유/추천하고 싶은 글&lt;/li&gt;
+  &lt;li&gt;네이버 랭킹 로직을 생각하면서 작성한 것이 아닌 글을 읽는 사람을 생각하며 작성한 문서&lt;/li&gt;
+  &lt;li&gt;글을 읽는 사용자가 쉽게 읽고 이해할 수 있게 작성한 문서&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;옛날에는 블로그와 같이 자신의 글을 공유하는 것은 해당 분야의 전문가가 남기는 글이 대부분이어서 읽는 재미도 있었고, 신뢰할 수 있었는데 블로그가 돈이 되면서, 또 내 지식이 아니어도 쉽게 복사하고 공유할 수 있는 디지털 세상이다보니 많은 사람이 콘텐츠생산자로 변했다. 누구나 쉽게 자신의 생각을 공유할 수 있다보니 가짜 정보가 늘어나고, 교묘하게 사실을 기반으로 약간의 거짓을 섞어 알아보지 못하는 경우도 많다. 네이버는 이러한 정보를 꾸준히 걸러내려고 노력하고 있는 것 같지만, 아직까지는 네이버 바이럴 업체가 상위노출을 할 수 있는 마케팅 담당자 입장에서는 좋은(?) 포털이기도 하다. 내가 마케팅한 제품명이 제목과 썸네일에 버젓이 들어가 있는데 클릭해서 들어가보면 다른 제품인 경우도 있었다. 한 줄 정리를 해보자면 네이버 블로그에 원하는 콘텐츠는 사진과 글 모두 내가 생산해 냈고, 신뢰할 수 있는 출처를 기반으로 한 정보성 글이어서 보는이에게 도움된다면 최고라는 이야기다.&lt;/p&gt;
+
+&lt;h4 id=&quot;네이버-검색이-생각하는-나쁜-콘텐츠&quot;&gt;네이버 검색이 생각하는 나쁜 콘텐츠&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/002/ex02.jpg&quot; alt=&quot;블로그글쓰기&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;음란성, 반사회성, 자살, 도박 등 불법적인 내용을 다루거나 불법 사이트로 접근을 유도하는 문서&lt;/li&gt;
+  &lt;li&gt;사생활, 개인 정보, 저작권 보호 등을 위해 노출이 제한되어야 하는 문서&lt;/li&gt;
+  &lt;li&gt;피싱이나 악성 소프트웨어가 깔리는 등 사용자에게 피해를 줄 수 있는 문서/사이트&lt;/li&gt;
+  &lt;li&gt;기존 문서 짜깁기하거나 의도적으로 키워드를 추가&lt;/li&gt;
+  &lt;li&gt;사람의 개입 없이 번역기를 사용하여 생성한 문서&lt;/li&gt;
+  &lt;li&gt;검색 엔진의 내용과 실제 방문이 전혀 다른 클로킹 문서/사이트&lt;/li&gt;
+  &lt;li&gt;폰트 크기를 0으로 하거나 색을 흰색으로 하거나 글 접기 기능으로 키워드를 숨겨놓은 문서&lt;/li&gt;
+  &lt;li&gt;위젯이나 스크립트를 사용해 사용자를 강제로 이동시키는 강제 리다이렉트&lt;/li&gt;
+  &lt;li&gt;사용자의 검색의도에 반하는 낚시성 문서&lt;/li&gt;
+  &lt;li&gt;블로그/뉴스/게시판/트위터 기타 웹페이지 내용을 단순 복사한 문서&lt;/li&gt;
+  &lt;li&gt;동일한 내용을 여러 블로그에 중복해서 생성하는 문서&lt;/li&gt;
+  &lt;li&gt;여러 ID를 사용하여 댓글을 작성해 인기가 높은 것처럼 보이도록 조작하는 경우&lt;/li&gt;
+  &lt;li&gt;검색 상위 노출을 위해 제목이나 본문에 의도적으로 키워드를 반복하여 작성한 문서&lt;/li&gt;
+  &lt;li&gt;상품이나 서비스에 대한 거짓 경험담으로 사용자를 속이는 문서&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;네이버 검색이 생각하는 유해문서가 어떤 건지에 대한 정리가 매우 잘 되어 있다. 하지만 위에 있는 나쁜 콘텐츠가 그래서 노출이 안되냐고 한다면, 그건 아니다. 네이버 블로그에 잘못들어갔다가 컴퓨터가 악성코드가 설치되는 바람에 아주 귀찮아 진 적이 있어서 한동안은 모르는 블로그는 접속조차 하지 않았던 때가 있었다. 지금은 그런 곳은 거의 없어진 걸 보면 네이버도 열일하고 있는 것 같긴 하지만. 그 외에 비즈니스를 위한 블로그의 경우 네이버가 발견하지 못하게 교모하게 활동하는 바이럴 업체들은 더욱 늘었고, 여전히 성업중이다.&lt;/p&gt;
+
+&lt;h4 id=&quot;검색어를-고려한-블로그-글쓰기&quot;&gt;검색어를 고려한 블로그 글쓰기&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/002/blog.jpg&quot; alt=&quot;블로그글쓰기&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;검색 결과에 나오려면 검색 사용자가 입력한 검색어가 문서의 제목이나 본문에 포함되어야 하니, 의도적으로 특정 검색어를 제목이나 본문에 삽입하는 경우를 흔히 볼 수 있다. 하지만 단순히 검색어를 글에 넣는다고 검색 결과에 잘 나오는 것은 아니다.&lt;/p&gt;
+
+&lt;p&gt;동일한 단어를 포함한 수천, 수만 개의 문서 중에서 어떤 문서는 먼저 검색되고, 또 어떤 문서는 나중에 검색된다. “네이버는 검색 사용자의 선호도를 기반으로 한 랭킹 알고리즘을 사용하여 검색 사용자의 의도를 가장 잘 반영한 문서가 먼저 검색되게 하고 있다.”고 하지만, 아직까지는 제대로 걸러지지 않으니까 노력하는 중 이라고 할까. 점점 더 좋아지고 있는 것은 사실이니까. 예전에는 네이버에 검색하면 딱 봐도 노출하고 싶어서 발악한 흔적으로 제목에 같은 단어가 여러번 반복되었는데, 이제는 아래와 같은 게시물이 상위에 뜨지 않는다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/002/warterbam.jpg&quot; alt=&quot;수분크림&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;아마도 ‘수분크림추천’이나 ‘수분크림후기’를 검색했을 때 검색 결과에 나오게 하려고 이렇게 제목과 내용에 관련 검색어를 반복 사용한 것이겠지만, 인위적인 검색어를 넣어 작성된 문서는 검색 사용자의 클릭이 떨어지기 마련이고, 검색 랭킹 로직에 의해서 검색 결과에서도 자연스럽게 후순위로 밀려난다. 제목은 글의 내용을 대표할 수 있는 명확하고 간결한 것이 좋다. 내 생각이지만, 부동산과 인테리어와 같이 온라인으로 끝나지 않고, 오프라인과 연결되는 업종인 경우 제목에 지역을 넣는 게시물이 많다. 아무래도 지역을 넣어서 검색하는 경우가 많기 때문이고, 제목에 길~게 들어가 있어도 지역기반인 경우 선택권 없이 클릭하게 되는 그런 게시물이니까. “유리문 전용 번호키 설치 광장동 열시 성수동 열쇠 광진구 열쇠 자양동 열쇠 구의동 열쇠 출장 수리” 이런식으로. 이제는 출장 가능지역으로 구분해 놓긴했지만, 생각보다 사람들은 텍스트를 꼼꼼히 읽지 않아서 문의를 받는 경우도 많겠다는 생각이든다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/002/place.jpg&quot; alt=&quot;장소&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;블로그 포스트 제목은 분명 ‘인천 어린이 박물관’과 ‘인천 아이와 갈만한 곳’이고, 실제 내용도 박물관 정보지만, 글의 내용과 상관없는 미용실 업체명이 제목에 포함되어 있다는 점이고, 보통은 직접 찍은 사진은 없고, 박물관 홈페이지 내용을 편집해서 올리는 경우가 꽤 많다. 일종의 낚시성 포스팅이다. 이 글을 올린 분이 미용실에서 홍보 포스팅 비용을 받은거겠지.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/002/ex01.jpg&quot; alt=&quot;장소&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;검색 결과 내에서 다른 문서에 나쁜 영향을 주거나 정보 탐색에 불편을 주는 제목 역시 제재 사유가 될 수 있다. 바로 제목에 의미 없는 특수문자를 삽입한 경우가 그 중 하나로 단순히 특수문자를 제목에 사용했다는 것만으로 정상적인 블로그 포스트가 제재를 받는 것은 아니다.&lt;/p&gt;
+
+&lt;p&gt;첫 번째 예시와 같이 제목에 의미 없는 특수문자를 과도하게 사용하는 경우 검색 결과의 가독성을 해칠수 있다. 또 두 번째 예시처럼 유니코드 문자를 제목에 삽입하는 경우 사용자의 시스템 환경에 따라 일관되지 않는 특수문자로 변환된다. 다른 글에 비해 일시적으로 주목도를 높일 수는 있겠지만, 검색 결과에서 정보가 아닌 다른 요소를 사용해 시각적인 주목도를 높여 다른 문서의 가독성을 저해하는 문서는 어뷰징 문서로 규정하고 있으니 주의해야한다.&lt;/p&gt;</content><author><name>제이</name></author><category term="디지털마케팅" /><category term="마케팅공부" /><category term="서치어드바이저" /><category term="디지털노마드" /><summary type="html">네이버 서치어드바이저 정리</summary></entry><entry><title type="html">브런치는 아니지만 퇴사이야기</title><link href="http://localhost:4000/start/" rel="alternate" type="text/html" title="브런치는 아니지만 퇴사이야기" /><published>2020-02-02T10:12:00+09:00</published><updated>2020-02-02T10:12:00+09:00</updated><id>http://localhost:4000/start</id><content type="html" xml:base="http://localhost:4000/start/">&lt;h2 id=&quot;첫-번째--나의-첫-사회생활&quot;&gt;첫 번째 : 나의 첫 사회생활&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/001/email.jpg&quot; alt=&quot;이메일&quot; /&gt;&lt;/p&gt;
 
@@ -143,28 +174,4 @@
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/001/rest.jpg&quot; alt=&quot;이메일&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;당장에 고정적인 수입이 없으니까, 단 돈 1원이라도 소득을 만들어보는게 2월의 목표. 이 블로그는 복잡하게 생각할 줄 모르는 내가 좀 더 다양한 각도로 삶을 경험할 수 있기를 바라며, 삶의 방향을 찾아가는  각종 리뷰가 꾸준히 업데이트 될 블로그이다. 그리고 내 일인 마케팅 관련해서 내가 공부하고 있는 내용도 함께.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 02 Feb 2020 10:12:00 +0900</pubDate>
-        <link>http://localhost:4000//start/</link>
-        <guid isPermaLink="true">http://localhost:4000//start/</guid>
-        
-        <category>퇴사</category>
-        
-        <category>마케팅</category>
-        
-        <category>알쓸신잡</category>
-        
-        <category>와이두유리브</category>
-        
-        
-        <category></category>
-        
-        <category>백수이야기</category>
-        
-        <category></category>
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;당장에 고정적인 수입이 없으니까, 단 돈 1원이라도 소득을 만들어보는게 2월의 목표. 이 블로그는 복잡하게 생각할 줄 모르는 내가 좀 더 다양한 각도로 삶을 경험할 수 있기를 바라며, 삶의 방향을 찾아가는  각종 리뷰가 꾸준히 업데이트 될 블로그이다. 그리고 내 일인 마케팅 관련해서 내가 공부하고 있는 내용도 함께.&lt;/p&gt;</content><author><name>제이</name></author><category term="퇴사" /><category term="마케팅" /><category term="알쓸신잡" /><category term="와이두유리브" /><summary type="html">첫 번째 : 나의 첫 사회생활</summary></entry></feed>
