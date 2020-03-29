@@ -2,7 +2,7 @@ title:              "와이두유리브"
 tagline:            "위대한 일이 아니어도 괜찮아."
 email:              "yujeongleeD@gmail.com"
 description:        "독서리뷰와 마케팅 이야기. 사는대로 생각하지 말고, 생각하는 대로 살기."
-author:             "제이"
+author:             "루시"
 baseurl:            "/"
 url:                "https://thisisthereason.com"
 locale:             "ko_KR"
@@ -11,6 +11,7 @@ thumbnail:          "/img/thumbnail.jpg"
 # Social Profiles
 facebook_username:  facebook_you2666
 linkedin_username:  linkedin_yujeongleed@gmail.com
+instagram_username: instagram_lucy_yujeong
 
 # Build settings
 markdown:           kramdown
