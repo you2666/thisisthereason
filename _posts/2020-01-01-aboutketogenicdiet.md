@@ -3,7 +3,6 @@ layout: post
 permalink: /ketogenic/aboutketogenic/
 title: 키토제닉이란? 간헐적 단식같은 건가요?
 date: 2020-01-01 16:00:00 +09:00
-content_Id: 10
 feature: /img/thumbnail/ketogenicdiet.jpg
 background: /img/post/01/bg_heosang-jeon.jpg
 categories:

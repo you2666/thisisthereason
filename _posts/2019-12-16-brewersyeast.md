@@ -4,7 +4,7 @@ permalink: /tips/brewersyeast/
 title: 건기식 1 - 맥주효모(Brewer's Yeast)
 date: 2019-12-16 15:00:00 +09:00
 feature: /img/thumbnail/vitamin-01.jpeg
-background: /img/post/01/bg_heosang-jeon.jpg
+background: /img/post/01/functionalfood.jpg
 categories:
   - ketogenic
   - tips

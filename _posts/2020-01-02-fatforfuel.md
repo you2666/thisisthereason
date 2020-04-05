@@ -3,7 +3,6 @@ layout: post
 permalink: /ketogenic/fatforfuel/
 title: Dr.머콜라의 <케톤하는 몸>
 date: 2020-01-02 06:00:00 +09:00
-content_Id: 11
 feature: /img/thumbnail/fatforfuel.jpeg
 background: /img/post/01/bg_heosang-jeon.jpg
 categories:

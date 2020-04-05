@@ -2,8 +2,7 @@
 layout: post
 permalink: /ketogenic/buttercoffee/
 title: 사 먹는 vs 만들어먹는 방탄커피
-date: 2020-01-10 06:00:00 +09:00
-content_Id: 12
+date: 2020-03-25 10:00:00 +09:00
 feature: /img/thumbnail/cafe.jpg
 background: /img/post/01/bg_heosang-jeon.jpg
 categories:

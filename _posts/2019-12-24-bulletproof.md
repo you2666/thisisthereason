@@ -3,7 +3,6 @@ layout: post
 permalink: /ketogenic/bulletproof/
 title: 불릿프루프(bulletproof), 방탄커피란?
 date: 2019-12-24 20:00:00 +09:00
-content_Id: 9
 feature: /img/thumbnail/headstrong.jpeg
 background: /img/post/01/bg_heosang-jeon.jpg
 categories:
