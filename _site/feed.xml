@@ -1,132 +1,95 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-19T23:57:55+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">와이두유리브</title><subtitle>독서리뷰와 마케팅 이야기. 사는대로 생각하지 말고, 생각하는 대로 살기.</subtitle><author><name>루시</name></author><entry><title type="html">오로라 여행준비하기</title><link href="http://localhost:4000/digitalmarketing/yellowknife-2/" rel="alternate" type="text/html" title="오로라 여행준비하기" /><published>2020-04-18T11:30:00+09:00</published><updated>2020-04-18T11:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/yellowknife-2</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/yellowknife-2/">&lt;h2 id=&quot;여행-준비하기&quot;&gt;여행 준비하기&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-02T21:16:40+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">와이두유리브</title><subtitle>독서리뷰와 마케팅 이야기. 사는대로 생각하지 말고, 생각하는 대로 살기.</subtitle><author><name>루시</name></author><entry><title type="html">소가죽에 대해 알아보자</title><link href="http://localhost:4000/tips/crazy-horse/" rel="alternate" type="text/html" title="소가죽에 대해 알아보자" /><published>2020-05-02T11:30:00+09:00</published><updated>2020-05-02T11:30:00+09:00</updated><id>http://localhost:4000/tips/crazyhorse</id><content type="html" xml:base="http://localhost:4000/tips/crazy-horse/">&lt;h2 id=&quot;소가죽-이야기&quot;&gt;소가죽 이야기&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/posts/008/aurora.jpg&quot; alt=&quot;오로라&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/posts/009/insurance.png&quot; alt=&quot;가죽사진&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;항공권을 발권한 후에 준비해야할 것은 캐나다 &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-ko.html&quot;&gt;eTA 비자&lt;/a&gt;를 신청해야한다. 비자는 대행해주는 사이트도 있지만 7달러로 직접 발급하는게 가장 저렴하다. 인터넷에 찾아보면 쉽게 설명되어 있기 때문에 굳이 대행을 할 필요는 없다. 그리고, 여행자보험가입인데 캐다나는 의료비가 엄청 비싼 나라이다. 보장을 잘 확인하고, 가능하면 같은 금액대비 보장이 많이 되는 것으로 가입하길 추천한다. 보험사마다 다르지만 1-3만원대 정도이다. 야놀자 앱을 설치한 후 해외숙소 부분에 가면 보이는 배너를클릭해서 가입하는게 금액대비 보장이 쫌 좋다.&lt;/p&gt;
+&lt;p&gt;항공권을 발권한 후에 준비해야할 것은 캐나다 &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-ko.html&quot;&gt;eTA 비자&lt;/a&gt;를 신청이다. 비자는 대행해주는 사이트도 있지만 7달러로 직접 발급하는게 가장 저렴하다. 인터넷에 찾아보면 쉽게 설명되어 있기 때문에 굳이 대행을 할 필요는 없었다. 그리고, 여행자보험&lt;/p&gt;</content><author><name>루시</name></author><category term="디지털마케팅실습" /><category term="구글애즈" /><category term="문구류" /><summary type="html">소가죽 이야기</summary></entry><entry><title type="html">오로라 여행준비하기</title><link href="http://localhost:4000/digitalmarketing/yellowknife-2/" rel="alternate" type="text/html" title="오로라 여행준비하기" /><published>2020-04-18T11:30:00+09:00</published><updated>2020-04-18T11:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/yellowknife-2</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/yellowknife-2/">&lt;h2 id=&quot;여행-준비하기&quot;&gt;여행 준비하기&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/008/insurance.png&quot; alt=&quot;여행자보험&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;촬영을-위한-방한용품-준비&quot;&gt;촬영을 위한 방한용품 준비&lt;/h3&gt;
+&lt;p&gt;항공권을 발권한 후에 준비해야할 것은 캐나다 &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-ko.html&quot;&gt;eTA 비자&lt;/a&gt;를 신청이다. 비자는 대행해주는 사이트도 있지만 7달러로 직접 발급하는게 가장 저렴하다. 인터넷에 찾아보면 쉽게 설명되어 있기 때문에 굳이 대행을 할 필요는 없었다. 그리고, 여행자보험가입인데 캐다나는 의료비가 엄청 비싸다. 보장을 잘 확인하고, 가능하면 같은 금액대비 보장이 많이 되는 것으로 가입하길 추천한다. 보험사마다 다르지만 1-3만원대 정도이다. 야놀자 앱을 설치한 후 해외숙소 부분에 가면 보이는 배너를클릭해서 가입하는게 금액대비 보장이 좋다.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/008/cold.jpg&quot; alt=&quot;방한용품&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;방한복 60-70 캐나다 달러로 이틀을 대여할 수 있다. 대여에 포함되는 물품은 (부츠/바지/파카/장갑/마스크)이다. 캐나다 구스 익스페디션 파카와 쏘렐 부츠가 포함되어 있는데 가능하면 빌리는 것을 추천한다. 괜히 캐구가 아니다. 파카 안쪽으로 전혀 바람이 들어오지 않아서 추운걸 모른다.&lt;/p&gt;
+&lt;h3 id=&quot;촬영을-위한-방한용품-준비&quot;&gt;촬영을 위한 방한용품 준비&lt;/h3&gt;
 
-&lt;p&gt;•두꺼운 것 한 두벌 보다는 여러 겹 겹쳐 입는 것이 좋다.&lt;/p&gt;
+&lt;p&gt;방한복은 이틀을 대여 할 경우 약 60-70 캐다나달러로 포함되는 물품은 부츠, 바지, 파카, 장갑, 마스크 이다. 마스크를 제외한 물품만 반납하면 된다. 대여 물품에는 캐나다 구스 익스페디션 파카와 쏘렐 부츠가 포함되어 있는데 가능하면 빌리는 걸 추천한다. 파카 안쪽으로 전혀 바람이 들어오지 않아 눈 속 세상에 있어도 바람이 불어도 추위가 느껴지지 않는다. 그 외 방한을 위한 추가 팁은 아래와 같다.&lt;/p&gt;
 
-&lt;p&gt;•상의 : 몸에 밀착하는 내복/ 얇은 폴라폴리스 티셔츠/ 스웨터 / 면 재질이나 후드티는 피할 것&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;두꺼운 것 한 두벌 보다는 여러 겹을 겹쳐 입을 것&lt;/li&gt;
+  &lt;li&gt;상의 : 몸에 밀착하는 내복, 얇은 폴라폴리스 티셔츠, 스웨터, 면 재질&lt;/li&gt;
+  &lt;li&gt;하의 : 내복 혹은 겨울용 스타킹 / 스키복 or 보드복 바지&lt;/li&gt;
+  &lt;li&gt;모자 : 귀를 보호하기 위한 귀마개 혹은 비니, 털모자&lt;/li&gt;
+  &lt;li&gt;마스크 : 스키마스크 or 폴라폴리스 목폴라&lt;/li&gt;
+  &lt;li&gt;장갑 2개 : 보드용 벙어리 장갑, 사진 촬영 시 손가락 움직일 수 있는 가죽장갑&lt;/li&gt;
+  &lt;li&gt;양말 : 겨울 등산용 양말 or 수면양말, 스타킹&lt;/li&gt;
+  &lt;li&gt;핫팩 : 발가락쪽 양말에 붙일 발핫팩 필수&lt;/li&gt;
+  &lt;li&gt;보온 물주머니, 육포, 초콜렛 체력 유지를 위한 제품&lt;/li&gt;
+  &lt;li&gt;방수 팩 : 카메라 액정이나 배터리가 얼어버리는 것 방지&lt;/li&gt;
+  &lt;li&gt;촬영 장비를 위한 제습제&lt;/li&gt;
+  &lt;li&gt;백색 LED 손전등 (촬영 시작 후에는 사용금지)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;•하의 : 내복 혹은 겨울용 스타킹 / 스키복 or 보드복 바지&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/posts/008/shoes.jpg&quot; alt=&quot;부츠&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;•모자 : 비니(귀마개) / 털모자 (화이스호스보다 더 춥다)&lt;/p&gt;
+&lt;h3 id=&quot;여행을-위한-나의-기본-준비물&quot;&gt;여행을 위한 나의 기본 준비물&lt;/h3&gt;
 
-&lt;p&gt;•마스크 : 스키마스크 or 폴라폴리스 목폴라&lt;/p&gt;
-
-&lt;p&gt;•장갑 2개 준비 : 보드용 벙어리 장갑 / 사진 촬영 시 손가락 움직일 수 있는 가죽장갑 필요 (선택 : 추가 예비장갑 +1)&lt;/p&gt;
-
-&lt;p&gt;•양말 : 겨울 등산용 양말 or 수면양말 / 스타킹&lt;/p&gt;
-
-&lt;p&gt;•핫팩 : 여러 개를 준비 / 발가락쪽 양말에 붙일 발핫팩 필수&lt;/p&gt;
-
-&lt;p&gt;•보온 물주머니, 육포, 초콜렛 체력 유지를 위한 제품&lt;/p&gt;
-
-&lt;p&gt;•방수 팩 : 액정이 얼어버리는 것 방지&lt;/p&gt;
-
-&lt;p&gt;•촬영 장비를 위한 제습제(실리카겔)&lt;/p&gt;
-
-&lt;p&gt;•백색 LED 손전등 (촬영 시작후에는 사용하지 않음)&lt;/p&gt;
-
-&lt;h3 id=&quot;편안한-여행을-위한-준비물&quot;&gt;편안한 여행을 위한 준비물&lt;/h3&gt;
+&lt;p&gt;텐트에서 먹을 사발면 (현지 조달), 110V 돼지코, 멀티탭, 선글라스 (or 고글), 렌즈, 안경, DSLR 카메라, 여분배터리, SD카드, 삼각대, 여권,항공권,eTA비자, 각종 비타민, 핫팩,비니,마스크,장갑, 이어폰(줄), 폰 유심 혹은 로밍, 보조가방(허리쌕), 화장지와 물티슈, 세면용품(샴푸,린스,폼클,치실,칫솔,치약), 화장품(자외선 차단제 포함), 보조배터리, 충전케이블, 옷가지(속옷/긴팔티/양말/셔츠/바지/경량패딩), 슬리퍼, 해외결제가 가능한 신용카드와 250 캐나다달러&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/008/baggage.jpg&quot; alt=&quot;준비물&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;•텐트에서 먹을 사발면 (현지 조달)&lt;/p&gt;
+&lt;p&gt;이 정도가 기본 준비물이었다. 비타민으로는 난 C/D/E/알리포산/종비를 섭취했고, 매일 마스크팩을 했으며, 꿀잠을 위한 휴족시간을 챙겨갔고 유용하게 사용했다. 신용카드는 비자를 추천해서 그걸로 챙겼다. 내 메인 카드인 아메리칸익스프레스 카드는 사용이 안되는 곳이 있어서 추천하지 않는다고 했다.&lt;/p&gt;
 
-&lt;p&gt;•110V 돼지코&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/posts/008/yellowknifemap.jpg&quot; alt=&quot;옐로나이프지도&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;•선그라스(or 고글)&lt;/p&gt;
-
-&lt;p&gt;•선블럭&lt;/p&gt;
-
-&lt;p&gt;•멀티탭&lt;/p&gt;
-
-&lt;p&gt;•핫초코&lt;/p&gt;
-
-&lt;p&gt;•목초버터&lt;/p&gt;
-
-&lt;p&gt;•렌즈/안경&lt;/p&gt;
-
-&lt;p&gt;•SD카드&lt;/p&gt;
-
-&lt;p&gt;•삼각대&lt;/p&gt;
-
-&lt;p&gt;•여권&lt;/p&gt;
-
-&lt;p&gt;•비타민 C/D/E/알리포산/종비&lt;/p&gt;
-
-&lt;p&gt;•핫팩&lt;/p&gt;
-
-&lt;p&gt;•이어폰(줄)&lt;/p&gt;
-
-&lt;p&gt;•폰 유심&lt;/p&gt;
-
-&lt;p&gt;•허리쌕&lt;/p&gt;
-
-&lt;p&gt;•화장지/물티슈&lt;/p&gt;
-
-&lt;p&gt;•여성용품/세면용품&lt;/p&gt;
-
-&lt;p&gt;•화장품&lt;/p&gt;
-
-&lt;p&gt;•펜/메모지&lt;/p&gt;
-
-&lt;p&gt;•항공권/eTA&lt;/p&gt;
-
-&lt;p&gt;•보조배터리&lt;/p&gt;
-
-&lt;p&gt;•충전케이블&lt;/p&gt;
-
-&lt;p&gt;•옷가지(속옷/긴팔티/양말/셔츠/바지/경량패딩)&lt;/p&gt;
-
-&lt;p&gt;•치실&lt;/p&gt;
-
-&lt;p&gt;•샴푸&lt;/p&gt;
-
-&lt;p&gt;•슬리퍼&lt;/p&gt;
-
-&lt;p&gt;•클렌징워터&lt;/p&gt;
-
-&lt;p&gt;•모자&lt;/p&gt;
-
-&lt;p&gt;•마스크&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/posts/008/airplane.jpg&quot; alt=&quot;프로펠라비행기&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;오로라-투어-첫날&quot;&gt;오로라 투어 첫날&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/posts/008/yellowknifemap.jpg&quot; alt=&quot;옐로나이프지도&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;작은 비행기를 타고 캘거리에서 옐로나이프로 향했다. 작고 아담해서 안전해 보이지 않았는데 심지어 프로펠라가 너무 시끄럽고 덜덜거려서 세시간 남짓 비행시간 내내 걱정스러웠던 프로펠라 비행기.&lt;/p&gt;
+
+&lt;p&gt;오후 07:45 -&amp;gt; 캘거리발 옐로나이프착 에어캐나다 탑승&lt;/p&gt;
+
+&lt;p&gt;오후 11:00 -&amp;gt; 옐로나이프 도착&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/008/auroramapkorean.jpeg&quot; alt=&quot;오로라&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;오후 11:30 -&amp;gt; 택시타고 숙소로 이동&lt;/p&gt;
+
+&lt;p&gt;새벽 12:30 -&amp;gt; 숙소로 가는 길에 오로라가 떴다&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/008/auroramap.jpeg&quot; alt=&quot;오로라&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;이렇게 오로라가 가운데에 있는데, 내가 택시에서 내렸을때는 구름이 가려서 오로라를 볼 수 없었다. 일찍 숙소에 도착한 사람들은 눈으로 보고 사진도 찍었던데 오로라를 보지 못해 아쉬웠던 첫날 밤이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/008/dawn.jpg&quot; alt=&quot;전망대&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;오로라-투어-둘째날&quot;&gt;오로라 투어 둘째날&lt;/h3&gt;
 
 &lt;p&gt;오전 07:30 -&amp;gt; 전망대에서 일출 출사&lt;/p&gt;
 
 &lt;p&gt;오전 08:30 -&amp;gt; 아침 식사 (한국에서 각자 미리 준비)&lt;/p&gt;
 
-&lt;p&gt;​             쇼핑 (캐나다구스 옷가게)&lt;/p&gt;
+&lt;p&gt;오전 09:30 -&amp;gt; 쇼핑 (캐나다구스 옷가게, 기념품 가게)&lt;/p&gt;
 
-&lt;p&gt;​             쇼핑 (기념품 가게)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/posts/008/buger.jpg&quot; alt=&quot;햄버거&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;오후 02:00 -&amp;gt; 점심 식사 &lt;a href=&quot;https://cafe.naver.com/temadica/782237&quot;&gt;NWT Brewing Company&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;​             숙소(바로 투어갈 수 있게 챙기기)&lt;/p&gt;
+&lt;p&gt;오후 03:00 -&amp;gt; 숙소(바로 오로라 투어갈 수 있게 챙기기)&lt;/p&gt;
 
 &lt;p&gt;오후 04:00 -&amp;gt; 방한복 렌탈 (버스이동)&lt;/p&gt;
 
-&lt;p&gt;​             시청 주변 일몰 출사 (도보이동)&lt;/p&gt;
+&lt;p&gt;오후 05:00 -&amp;gt; 시청 주변 일몰 출사 (도보이동)&lt;/p&gt;
 
-&lt;p&gt;오후 07:30 -&amp;gt; 저녁식사 &lt;a href=&quot;https://cafe.naver.com/temadica/782238&quot;&gt;Gold Range Bistro&lt;/a&gt;&lt;a href=&quot;https://cafe.naver.com/temadica/782238&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;오후 07:30 -&amp;gt; (별로) 저녁식사 &lt;a href=&quot;https://cafe.naver.com/temadica/782238&quot;&gt;Gold Range Bistro&lt;/a&gt;&lt;a href=&quot;https://cafe.naver.com/temadica/782238&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;오후 08:50 -&amp;gt; 오로라 투어 Days Inn 후 새벽 귀가&lt;/p&gt;
+&lt;p&gt;오후 08:50 -&amp;gt; 오로라 투어 출발(식사와 간식 챙기기)&lt;/p&gt;
 
-&lt;p&gt;​             식사와 간식 챙기기(사발면/햇반/핫초코/캔디류)&lt;/p&gt;
+&lt;p&gt;새벽 01:00 -&amp;gt; 아쉬워하며 숙소로 복귀&lt;/p&gt;
 
-&lt;h3 id=&quot;오로라-투어-둘째날&quot;&gt;오로라 투어 둘째날&lt;/h3&gt;
+&lt;p&gt;첫날에는 오로라를 관측할 수 없었다. 아쉬웠지만, 우리힘으로 되는 건 아니기 때문에 1시에 숙소로 귀가했다. 마치 동화속 한 장면 같았던 티피텐트를 이용하고 카메라를 세팅한 것으로 만족했다. 내일은 볼 수 있었으면 좋겠는데…&lt;/p&gt;
+
+&lt;h3 id=&quot;오로라-투어-셋째날마지막&quot;&gt;오로라 투어 셋째날(마지막)&lt;/h3&gt;
 
 &lt;p&gt;오전 07:30 -&amp;gt; 전망대에서 일출 출사&lt;/p&gt;
 
@@ -134,19 +97,27 @@
 
 &lt;p&gt;오전 11:00 -&amp;gt; 아침 식사 &lt;a href=&quot;https://cafe.naver.com/temadica/782241&quot;&gt;Trader’s Grill Brunch buffet&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;​             올드타운 출사&lt;/p&gt;
+&lt;p&gt;오후 12:00 -&amp;gt; 올드타운 출사&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/008/bullocks.jpg&quot; alt=&quot;불록스비스트로&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;오후 04:00 -&amp;gt; 점심 식사 &lt;a href=&quot;https://cafe.naver.com/temadica/782242&quot;&gt;Bullocks’s Bistro&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;​             숙소&lt;/p&gt;
+&lt;p&gt;오후 04:00 -&amp;gt; 숙소&lt;/p&gt;
 
 &lt;p&gt;오후 07:30 -&amp;gt; 전망대 일몰 출사&lt;/p&gt;
 
-&lt;p&gt;​             택시 이동&lt;/p&gt;
+&lt;p&gt;오후 08:00 -&amp;gt; 택시 이동&lt;/p&gt;
 
-&lt;p&gt;오후 08:30 -&amp;gt; 오로라 투어 Days Inn 후 새벽 귀가&lt;/p&gt;
+&lt;p&gt;오후 08:50 -&amp;gt; 오로라 투어 출발(간식 챙기기)&lt;/p&gt;
 
-&lt;p&gt;​             식사와 간식 챙기기(사발면/햇반/핫초코/캔디류)&lt;/p&gt;</content><author><name>루시</name></author><category term="디지털마케팅실습" /><category term="구글애즈" /><category term="여행이야기" /><summary type="html">여행 준비하기</summary></entry><entry><title type="html">캐나다 오로라 여행</title><link href="http://localhost:4000/digitalmarketing/yellowknife-1/" rel="alternate" type="text/html" title="캐나다 오로라 여행" /><published>2020-04-08T11:30:00+09:00</published><updated>2020-04-08T11:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/yellowknife-1</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/yellowknife-1/">&lt;h2 id=&quot;오로라에-대한-상식들&quot;&gt;오로라에 대한 상식들&lt;/h2&gt;
+&lt;p&gt;새벽 02:30 -&amp;gt; 자축하며 숙소로 복귀&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/008/last-aurora.jpeg&quot; alt=&quot;오로라댄스&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;마지막 날 새벽 2시 반까지 연장했고, 드디어 우리 앞에 멋진 오로라가 나타났다. 팔랑팔랑 오로라댄스도 봤다. 나타났다 사라지고, 없다가 생기고, 생겼다 금방 없어지는 모습을 모두 카메라에 담을 수 없어 아쉬웠다. 아래 사진은 아이폰으로 담은 오로라이다. 저 산장같은 건물에서는 음식과 술을 파는 공간인데, 화장실이 깨끗하고, 가격도 많이 비싸지 않아서 이용해 볼 만하다. 아이스와인을 먹고 있다가 오로라가 나타났다는 카톡소식에 후다닥 나가서 폰으로 찍은 사진이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/008/aurora-star.jpg&quot; alt=&quot;아이폰오로라&quot; /&gt;&lt;/p&gt;</content><author><name>루시</name></author><category term="디지털마케팅실습" /><category term="구글애즈" /><category term="여행이야기" /><summary type="html">여행 준비하기</summary></entry><entry><title type="html">캐나다 오로라 여행</title><link href="http://localhost:4000/digitalmarketing/yellowknife-1/" rel="alternate" type="text/html" title="캐나다 오로라 여행" /><published>2020-04-08T11:30:00+09:00</published><updated>2020-04-08T11:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/yellowknife-1</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/yellowknife-1/">&lt;h2 id=&quot;오로라에-대한-상식들&quot;&gt;오로라에 대한 상식들&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/008/aurora.jpg&quot; alt=&quot;오로라&quot; /&gt;&lt;/p&gt;
 
@@ -288,15 +259,15 @@
 
 &lt;p&gt;인터넷에서 쉽게 찾아볼 수 있는 혈당지수(GI)는 탄수화물이 함유된 식품이 식후 얼마나 혈당을 빨리 상승시키는지를 측정해 숫자로 보여준다. 포도당 50g 먹었을 때의 혈당 상승 속도를 100으로 정하고, 특정 탄수화물(당질)을 50g 먹었다고 가정했을 때 속도를 상대적으로 나타난 지수다. 복합당 함량이 높은 식품은 혈당지수가 낮은 질 좋은 탄수화물이라고 할 수 있고, 혈당지수가 높은 단순당 식품은 질 나쁜 탄수화물이다. 일반적으로 지수가 55이하는 저혈당 지수 식품, 70 이상은 고혈당 지수 시품으로 분류한다. 문제는 혈당지수의 경우, 해당 식품을 한 번에 얼마나 먹었는지를 고려하지 않은 수치다. 예를 들어 늙은호박의 혈당지수는 75다. 하지만 늙은호박 1개에는 약 4~5g의 탄수화물이 들어있다. 따라서 혈당지수 기준인 50g의 탄수화물을 만족시키기 위해서는 한 번에 10개 정도의 늙은호박을 먹어야 한다. 대부분 늙은호박을 한자리에서 10개 이상 안먹는다. 그러면서 1회 섭취량을 고려한 개념이 등장했고, 그것이 당부하지수(GL)이다. 당부하지수는 당지수에 섭취한 탄수화물의 양을 곱한 뒤, 100으로 나눠 계산한다. 이렇게 계산했을 때 늙은 호박의 당부하지수는 3이다. &lt;a href=&quot;https://www.stylecraze.com/articles/glycemic-index-foods-list/&quot;&gt;GI 참고자료&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;도전-중인-식단이야기&quot;&gt;도전 중인 식단이야기&lt;/h3&gt;
+&lt;h3 id=&quot;내가-도전-중인-식단&quot;&gt;내가 도전 중인 식단&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/post/03/rice.jpg&quot; alt=&quot;벼와 들판&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;질병으로 인해 식단을 짜야하는 게 아니기 때문에 이렇게 까지 각잡고 할 생각은 없지만 오랫동안 연구되온 결과로 혈당지수만 보면 흰밥보다는 현미밥을 선택해야한다고 생각하겠지만, 키토제닉 라이프를 유지해온 사람은 흰밥을 추천한다. 인간의 내장이 쌀껍데기를 먹게 진화하질 않아서 그렇다고 하는데. 항양소의 단점이랑 장내 조직손상 이슈가 있어서 차라리 백미가 낫다고. 현재까지는 이 연구 결과가 인정받았다고 한다. 나도 이 이야기가 신뢰할 수 있다고 생각하는 이유는 학교다닐 때도 궁금했던 거였기 때문에. 세상의 모든 씨앗에는 자신의 번식을 방해하는 악의무리(?)로 부터 본인을 지키기 위한 물질이 있다. 그게 렉틴이라는 건데.. 현미도 껍질아닌가, 저걸 왜 안벗기고 먹는게 몸에 좋다는 걸까 의아해 했던 기억이 있기 때문이다. 근데 그걸 왜 즉시 안물어봤냐면 고등학교때는 별 희괴한 질문을 다한다고 핀잔듣고 그랬는데. 대학교 때는 교수님들이랑 그런 분위기가 아니었고, 그게 반복되다보니 전공 흥미를 잃었고, 나는 복수전공을… 그래도 유기화학이나 생화학은 좋아했는데.&lt;/p&gt;
+&lt;p&gt;내가 특정 질병 때문에 식단을 하는 것은 아니기도 하지만, 사회생활 하면서 엄격하게 식단을 지키는 게 불가능에 가깝다고 생각한다. 그렇지만, 나에게 선택권이 있으면 잘 알아보고 가려 먹을 수는 있는 거니까. 그래서 단순히 혈당지수만 보면 상식적으로 흰밥보다는 현미밥을 선택해야 할 것 같지만, 사실은 흰밥이 더 낫다(고 나는 생각한다.) 세상의 모든 씨앗에는 자신의 번식을 방해하는 동물에게서 자신을 지키기 위한 물질이 있다. 그게 렉틴이라는 성분으로 동물의 내장에서는 소화되지 않아 그대로 배설된다. 인간 역시도 내장이 쌀 껍데기를 먹게 진화하질 않았기 때문에 현미가 혈당이 낮은 건 맞지만, 그보다는 장내 조직손상 이슈가 더 크기 때문에 그게 오히려 더 좋지 않다고.. 뭐 어느 게 진실인지는 더 시간이 지나야 하지 않을까.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/post/03/effort.jpg&quot; alt=&quot;의지&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;그리고 오랜 키토제닉 선배 말에 따르면 극단적인 탄수화물 제한도 하지 말라고 한다. 인간의 의지로는 호르몬을 계속해서 이길 수 없다고. 물론 독하게 다이어트를 하는 사람은 진짜 많은 건 알고 있다. 나는 빵은 좋아하지 않았지만, 밥은 꼭 먹어야하는 밥순이 였는데, 저탄고지를 해보자고 생각한 뒤로는 고기를 늘렸더니 이상하게 밥이 땡기지 않는다. 밥을 먹지 않으니 단짠맵인 반찬도 잘 안먹게 되고.. 예전에 집밥은 고기를 구워먹는다는 선택지는 없었는데, 요즘 그 때문에 부지런해졌다. 그래서 결과가 좋다고 누가 물어본다면. 이렇게 먹고 안 건강해지면 그건 사람 몸뚱아리가 아니다. 건강해질 수 밖에 없는 먹거리들. 야채와 고기, 슬로우 푸드를 이렇게 잘 챙겨먹었던 시기는 처음인데, 계속 이렇게 할 수 있을까 싶은 생각이 있다. 가족이랑 같이 살았다면 내가 다 전파했을텐데.&lt;/p&gt;</content><author><name>루시</name></author><category term="키토제닉" /><category term="저탄고지" /><category term="정제탄수화물" /><summary type="html">정신이 멍하고 집중력이 떨어지고, 마음은 우울하고 의욕이 없어진다는 느낌이 있다면 키토제닉 식단과 명상을 추천한다. 키토제닉 라이프 스타일을 꾸준히 유지하기 위해서 가장 중요한 것은 정제 탄수화물 섭취를 제한하는 게 중요하다. 이게 생각보다 어려운 게 눈을 돌리면 어디에나 정제 탄수화물이 있기 때문이다. 이 모든 먹거리와 전쟁을 선포하는 것은 생각보다 더 노력이 필요한 일이다. 저탄고지는 적은 탄수화물과 많은 지방을 섭취하는 식단이라지만 즉시 식단을 바꾸기에는 냉장고와 냉동실에 쌓인 음식이 많다. 탄수화물을 줄이는 것부터 하나씩 시작해보기를 추천한다.</summary></entry><entry><title type="html">사 먹는 방탄커피 NO</title><link href="http://localhost:4000/ketogenic/buttercoffee/" rel="alternate" type="text/html" title="사 먹는 방탄커피 NO" /><published>2020-03-25T10:00:00+09:00</published><updated>2020-03-25T10:00:00+09:00</updated><id>http://localhost:4000/ketogenic/buttercoffee</id><content type="html" xml:base="http://localhost:4000/ketogenic/buttercoffee/">&lt;p&gt;&lt;img src=&quot;/img/post/02/buttercoffee.jpeg&quot; alt=&quot;키토베이스 방탄커피&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;그리고 몇 년간 키토제닉 식단을 지속해 온 분의 말에 따르면 극단적인 탄수화물 제한은 하지 말라고 한다. 인간의 의지로는 호르몬을 평생 이길 수 없는 법인데 수년간 이기다가 한 번 지면 그 길로 포기하게 되니까. 그렇게까지 내 세포 건강과 정신건강을 해치면서까지 하지 말라는 거다. 나는 다행히 밀가루 음식을 좋아하지 않지만, 밥은 절대 포기할 수 없는 음식이었다. 근데 저탄고지를 진행하면서 지방 섭취를 늘렸더니 이상하게 밥이 필요 없어졌다. 밥을 먹지 않으니 달거나 매운 반찬 역시도 먹지 않게 됐다. 특별한 날이 아닌데 집에서 고기를 구워 먹는다는 선택지가 생겼다. 그래서 그 식단이 나에게 맞냐고, 건강이 좋아졌냐고 누가 물어본다면, “이렇게 먹고 안 건강해지면 그건 사람 몸뚱아리가 아니다” 라고 답할 수 있다. 건강해질 수밖에 없는 신선한 고기와 목초 버터, 구운 야채. 식품 첨가물이 거의 들어가지 않았고, 정제 탄수화물도 제외한 키토제닉 식단. 혼자 하려니 외롭긴 하다. 가족이랑 같이 살았다면 내가 다 전파했을 텐데.&lt;/p&gt;</content><author><name>루시</name></author><category term="키토제닉" /><category term="저탄고지" /><category term="정제탄수화물" /><summary type="html">정신이 멍하고 집중력이 떨어지고, 마음은 우울하고 의욕이 없어진다는 느낌이 있다면 키토제닉 식단과 명상을 추천한다. 키토제닉 라이프 스타일을 꾸준히 유지하기 위해서 가장 중요한 것은 정제 탄수화물 섭취를 제한하는 게 중요하다. 이게 생각보다 어려운 게 눈을 돌리면 어디에나 정제 탄수화물이 있기 때문이다. 이 모든 먹거리와 전쟁을 선포하는 것은 생각보다 더 노력이 필요한 일이다. 저탄고지는 적은 탄수화물과 많은 지방을 섭취하는 식단이라지만 즉시 식단을 바꾸기에는 냉장고와 냉동실에 쌓인 음식이 많다. 탄수화물을 줄이는 것부터 하나씩 시작해보기를 추천한다.</summary></entry><entry><title type="html">사 먹는 방탄커피 NO</title><link href="http://localhost:4000/ketogenic/buttercoffee/" rel="alternate" type="text/html" title="사 먹는 방탄커피 NO" /><published>2020-03-25T10:00:00+09:00</published><updated>2020-03-25T10:00:00+09:00</updated><id>http://localhost:4000/ketogenic/buttercoffee</id><content type="html" xml:base="http://localhost:4000/ketogenic/buttercoffee/">&lt;p&gt;&lt;img src=&quot;/img/post/02/buttercoffee.jpeg&quot; alt=&quot;키토베이스 방탄커피&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;이 제품은 체험단으로 받은 상품이다. 시중에서 판매하는 방탄커피는 많은 제품이 진짜가 아니라고 들었다. 식품첨가물을 피하라고 하는 데 그걸 오히려 넣은 제품들이니까. 그래서 솔직히 방탄커피는 사먹을 생각은 없었지만, 무료로 체험할 수 있는 기회가 있어서 냉큼 참여했다. 사실 이 제품에는 앵커&amp;amp;기버터가 쓰였다고 해서 궁금한 제품이긴 했다. 나는 달지 않은 제품으로 신청했지만, 달콤한 제품에는 액상 알룰로스와 에리스리톨이 들어간다고 한다. 내가 받은 달지 않은 이 제품은 먹어본 적 없었던 기버터 때문인지 느끼하고 역함이 있었다. 몸에 안좋으면 맛있어야 하는데, 맛이 없는 걸 보면.. 사실은 몸에 엄청 좋은건가 싶고. 가장 큰 장점은 간편하고, 차갑게 먹을 수 있다는 것. 난 얼죽아 파인데 방탄커피는 따숩게 마셔야 맛있어서 좀 아쉽다.&lt;/p&gt;
 
@@ -683,20 +654,4 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;사실, 지방은 너무나 훌륭한 비축의 수단이어서 우리는 여러 통로를 통해 단백질, 탄수화물으로 부터도 지방을 만들 수 있게 진화되었다. 초식을 하는 동물은 지방의 축적될 여유가 없다. 곡류를 섭취하여야 비육해질 수 있다. 멧돼지의 지방함량은 체중의 4% 정도고 꿩은 2.5%가 지방이다. 사육돼지의 지방함량은 25~40%이며, 사육 닭은 25%의 지방을 가지고 있다고 한다. 지방은 체중의 3% 이하여도 충분하다는 이야기다. 동물만 보더라도 잉여 탄수화물이 지방으로 비축되고 있다. 지방은 죄가 없다.&lt;/p&gt;</content><author><name>루시</name></author><category term="키토제닉" /><category term="저탄고지" /><category term="LCHF" /><category term="두뇌부스팅" /><summary type="html">저탄수화물 고지방 (Low Carb. High Fat, LCHF) 식이요법</summary></entry><entry><title type="html">두뇌를 리부팅해보자</title><link href="http://localhost:4000/ketogenic/anti-aging/" rel="alternate" type="text/html" title="두뇌를 리부팅해보자" /><published>2020-02-10T07:30:00+09:00</published><updated>2020-02-10T07:30:00+09:00</updated><id>http://localhost:4000/ketogenic/anti-aging</id><content type="html" xml:base="http://localhost:4000/ketogenic/anti-aging/">&lt;p&gt;&lt;img src=&quot;/img/post/01/cell.jpg&quot; alt=&quot;세포이미지&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;노화가-진행되는-30대가-되서-그런-거라고&quot;&gt;노화가 진행되는 30대가 되서 그런 거라고?&lt;/h3&gt;
-
-&lt;p&gt;나는 똑같이 살았던 것 같은데, 살이 쪘다. 15kg을 찍고, 지금은 10kg 정도. 그래서인지 모르겠지만, 건강이 좋지 않다. 피곤하고, 몸이 아프고, 면역력도 떨어졌고. 또, 기억력이 예전 같지 않다. 카드번호나 계좌번호가 순간순간 기억이 안 날때가 있다. 살은 쪘는데 피부는 오히려 안좋아지고.. 병원은 왜 자꾸 찾게 되는지. 지인과 이야기를 해봐도 “20대와는 다르지, 30대라서 그래” “나이 먹어서 그렇지 뭐 우리 체력도 떨어졌잖아” 그리고 30대는 정말 나잇살이 있어서 운동해야 빠진다고… ‘음, 아 그런가..? 그렇구나’ 하면서 무심코 하루하루를 흘려보냈고, 이제 빼박 30대이다. 내 건강과 인지능력은 현저히 떨어지고 있는데 이게 정말 나이 때문만일까? 현대는 100세 시대인데, 그럼 앞으로 70년 동안 끊임없이 안 좋아지는 거라고? 내 세포들은 그럼 계속 늙어가기만 하는걸까.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post/01/keto-brain.jpg&quot; alt=&quot;뇌이미지&quot; /&gt; &lt;img src=&quot;/img/post/01/keto-vegetable.jpg&quot; alt=&quot;야채&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;인간의-뇌와-식단과의-상관관계&quot;&gt;인간의 뇌와 식단과의 상관관계&lt;/h3&gt;
-
-&lt;p&gt;내 기억이 맞는다면 2017-8년도에 퇴사 열풍과 함께 뇌과학과 우울함에 대해 대한민국이 들썩였다. 다양한 콘텐츠와 서적이 생산되었고, 사회적 이슈에 편승한 책이 많아서 내용은 별로인 책이 더 많았다는 생각이 들지만, 그런 수 많은 콘텐츠 사이에서 보석같은 책을 발견했다. 바로 ’정전 상태에 빠진 두뇌를 리부트하자!’ 라는 소제목을 가진 데이비드 아스프리의 “헤드스트롱”을 만났다. 이 책은 천문학적인 비용을 들여서 본인의 몸을 해킹하는 실리콘밸리 사업가 아스프리가 나온다. 컴퓨터를 이용해 프로그램을 해킹할 수 있으면, 인간의 몸도 가능하지 않을까 라고 가설을 세운 아스프리는 정말 최첨단 장비를 이용해 자신의 몸을 바이오해킹한다. 왜 시도하게 되었는지, 어떤 부분을 자신의 삶과 적용했는지는 책을 보면 알 수 있다. 그래서 실험적인 정보가 주를 이루고 있고, 고등학교 생물2를 배웠다면 흥미롭게 이해할 수 있을 정도의 수준이다. 7차 과정 이후 고등학교를 졸업했다면 과학 과목을 전혀 배우지 않았을 경우 이 책이 그리 재밌지는 않을 수 있지만… 음 그래도 읽어보기를 추천한다. 방탄커피, 키토제닉(Ketogenic)에 대한 이야기와 LCHF(Low Carbohydrate High Fat) 지속가능한 식단을 이야기한다. 그는 고도비만으로 건강을 위해 다양한 다이어트를 시도했던 전력이 있었고, 일반적인 다이어트로는 성공하지 못했지만, 키토제닉 식단을 하면서 몸과 정신이 건강해졌고, 체중도 정상 체중으로 돌아왔으며, 10년 전보다 훨씬 더 젊은 뇌를 가지고 살 수 있게 되었다. 한국에서는 ‘최강의 식사’로 더 유명하고, 다이어트 얘기를 할 때 빠지지 않으며.. 방탄커피의 창시자이다. 그리고 나는 이 책 내용을 정말 시도해 볼 생각이고.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post/01/keto-health.jpg&quot; alt=&quot;운동하기&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;키토제닉-식단-아스프리를-따라서&quot;&gt;키토제닉 식단, 아스프리를 따라서&lt;/h3&gt;
-
-&lt;p&gt;아스프리를 알게 되면서, 몇 년 전 한국에서 인기 있었던, 원푸드 다이어트의 바통을 이은 황제 다이어트가 생각났다. TV프로에서 방영된 내용은 고깃집가서 삼겹살에 버터 넣어 굽고, 국밥 먹으면서 버터 넣고.. 그 당시에는 저탄고지에 대한 지식이 없어서 ‘이게 무슨 해괴한 짓이지’ 했던 기억이 난다. TV에 나온 식단은 제대로 된 저탄고지가 아니다. 사실, 원푸드 다이어트는 영양학적 관점에서 좋을 수 없고, 평생 지속 가능한 것도 아니고, 언제나 나는 마르고 싶긴 했지만 비용을 들여서 다이어트를 시도한 적은 없다. 내 의지력은 어렸을때나 커서나 강하지 않았고, 그 사실은 나는 너무나 잘 알았기 때문에. 지금은 오히려 너무 많은 정보로 사실과 뇌피셜 사이에서 길을 잃기가 쉬운데, 그나마 다행인 건 내가 식품공학을 전공해서, 쬐끔 나을 거라는 사실이다. 아쉬운 점은 아스프리는 외국인이고, 성인 남자이다. 여자와는 호르몬 기작이 다를 뿐 아니라, 애초에 주식이 쌀인 한국이랑은 환경적인 요인에서 차이가 있을 수밖에 없다. 여자인 나에게 키토제닉이 정착하기 위해서는 1년 이상의 시간이 필요하다고 한다. 그럼 저탄고지를 시작해보자.&lt;/p&gt;</content><author><name>루시</name></author><category term="키토제닉" /><category term="저탄고지" /><category term="LCHF" /><category term="두뇌부스팅" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;사실, 지방은 너무나 훌륭한 비축의 수단이어서 우리는 여러 통로를 통해 단백질, 탄수화물으로 부터도 지방을 만들 수 있게 진화되었다. 초식을 하는 동물은 지방의 축적될 여유가 없다. 곡류를 섭취하여야 비육해질 수 있다. 멧돼지의 지방함량은 체중의 4% 정도고 꿩은 2.5%가 지방이다. 사육돼지의 지방함량은 25~40%이며, 사육 닭은 25%의 지방을 가지고 있다고 한다. 지방은 체중의 3% 이하여도 충분하다는 이야기다. 동물만 보더라도 잉여 탄수화물이 지방으로 비축되고 있다. 지방은 죄가 없다.&lt;/p&gt;</content><author><name>루시</name></author><category term="키토제닉" /><category term="저탄고지" /><category term="LCHF" /><category term="두뇌부스팅" /><summary type="html">저탄수화물 고지방 (Low Carb. High Fat, LCHF) 식이요법</summary></entry></feed>
