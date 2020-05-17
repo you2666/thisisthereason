@@ -1,8 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-02T21:16:40+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">와이두유리브</title><subtitle>독서리뷰와 마케팅 이야기. 사는대로 생각하지 말고, 생각하는 대로 살기.</subtitle><author><name>루시</name></author><entry><title type="html">소가죽에 대해 알아보자</title><link href="http://localhost:4000/tips/crazy-horse/" rel="alternate" type="text/html" title="소가죽에 대해 알아보자" /><published>2020-05-02T11:30:00+09:00</published><updated>2020-05-02T11:30:00+09:00</updated><id>http://localhost:4000/tips/crazyhorse</id><content type="html" xml:base="http://localhost:4000/tips/crazy-horse/">&lt;h2 id=&quot;소가죽-이야기&quot;&gt;소가죽 이야기&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-17T21:04:21+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">와이두유리브</title><subtitle>독서리뷰와 마케팅 이야기. 사는대로 생각하지 말고, 생각하는 대로 살기.</subtitle><author><name>루시</name></author><entry><title type="html">토끼를 꼬시는 당근, 리드마그넷</title><link href="http://localhost:4000/digitalmarketing/lead-magnet/" rel="alternate" type="text/html" title="토끼를 꼬시는 당근, 리드마그넷" /><published>2020-05-15T07:30:00+09:00</published><updated>2020-05-15T07:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/lead-magnet</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/lead-magnet/">&lt;h2 id=&quot;리드lead란&quot;&gt;리드(Lead)란?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/posts/009/insurance.png&quot; alt=&quot;가죽사진&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;내가 속했던 마케팅팀에서는 신규 리드 발굴이 KPI에 포함됐다. 그 전까지는 MQL로 잠재고객으로 충분했던 마케팅 업무가 신규 서비스가 출시 되자 나중에는 SQL로 바뀌었다. 그리고 본사에서는 더이상 MQL은 인정하지 않는다고 가이드가 내려왔다. 이 두 가지의 차이가 뭘까.&lt;/p&gt;
 
-&lt;p&gt;항공권을 발권한 후에 준비해야할 것은 캐나다 &lt;a href=&quot;https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-ko.html&quot;&gt;eTA 비자&lt;/a&gt;를 신청이다. 비자는 대행해주는 사이트도 있지만 7달러로 직접 발급하는게 가장 저렴하다. 인터넷에 찾아보면 쉽게 설명되어 있기 때문에 굳이 대행을 할 필요는 없었다. 그리고, 여행자보험&lt;/p&gt;</content><author><name>루시</name></author><category term="디지털마케팅실습" /><category term="구글애즈" /><category term="문구류" /><summary type="html">소가죽 이야기</summary></entry><entry><title type="html">오로라 여행준비하기</title><link href="http://localhost:4000/digitalmarketing/yellowknife-2/" rel="alternate" type="text/html" title="오로라 여행준비하기" /><published>2020-04-18T11:30:00+09:00</published><updated>2020-04-18T11:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/yellowknife-2</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/yellowknife-2/">&lt;h2 id=&quot;여행-준비하기&quot;&gt;여행 준비하기&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Marketing Qualified Lead (MQL)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;세일즈로 이어질 가능성이 낮은 고객&lt;/p&gt;
+
+&lt;p&gt;전시회, 세미나, 컨퍼런스 등에서 설문조사를 하거나 명함 추첨 이벤트를 진행하면 새로운 리드(Lead)를 모을 수 있다. 하지만 대부분 참여 사은품을 위한 경우가 많아 세일즈로 이어질 가능성이 낮다. 홈페이지에서 뉴스레터를 구독하는 것도 직접 돈을 지불하고 제품을 구매할 의향을 밝힌것은 아니기 때문에 MQL로 분류했다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sales Qualified Leads (SQL)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;구매할 의향이 있다고 직접적으로 관심을 표한 고객&lt;/p&gt;
+
+&lt;p&gt;자사 홈페이지 문의하기에 남기거나 영업사원과 직접적인 연락을 한 경우 실제 구매의사가 있다고 판단해 SQL로 분류한다. 또, 자사에서는 설치형 고가 제품을 일정기간 회사에 무료로 설치하고 사용해 보는 체험을 진행했었는데 이 경우에는 구매로 이어지는 경우가 많아 SQL로 분류했다.&lt;/p&gt;
+
+&lt;h2 id=&quot;리드-마그넷이란&quot;&gt;리드 마그넷이란?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/007/magnets.jpg&quot; alt=&quot;마그넷&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;정보통신망법에 의한 개인정보가 더욱 중요해지고 있는 지금 리드 마그넷(Lead Magnet)은 매력적인 콘텐츠로 기꺼이 자신의 개인정보를 남기게 만드는 마케팅 방식이다. 인터넷 사용자라면 아마도 심리테스트를 하고 난 다음의 결과를 받기 위해, 혹은 PDF 보고서를 다운 받거나 E-book 형태의 소책자, 카탈로그 등을 받기위해 이메일을 남겨본 경험이 있을 거다. 리드 마그넷은 이런 개인정보를 답례로 마케터가 잠재 고객에게 제공하는 인센티브라고 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;특히 그 중 가장 많이 요구되는 이메일은 인터넷 사용자라면 누구나 가지고 있고, 하나만 사용하는 사람도 없으며, 받아보는 모든 메일을 100% 확인하지 않는다. 대다수 고객은 수신거부는 커녕 클릭조차 하지 않는다. 리드 마그넷으로 모은 리스트를 이메일 마케팅으로 효과적으로 사용하기 위해서는 무엇보다 잠재고객이 흥미와 관심이 있는 정보를 제공해야한다. 즉 예쁜 당근으로 토끼를 꼬셔보자.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/007/carrot.jpg&quot; alt=&quot;당근&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;대표적인 리드 마그넷은 다운로드가 가능한 소프트웨어, 온라인강의, 전자책, 쇼핑리스트, 가이드 북, 리포트 형태이다. 그럼 성공하는 리드 마그넷의 특징을 생각해보자. 잠재고객의 관심사를 알고, 필요한 정보를 제공해 높은 가치를 전달하면 된다. 나의 잠재고객은 누구인지 구체화하는 것부터가 시작이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/007/rabbits.jpg&quot; alt=&quot;토끼들&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;나는 작년에 아스프리의 저서를 보고 키토제닉 식단에 입문했다. TV와 유튜브, 광고 등에서 저탄고지에 대한 이야기가 많이 나오면서 다양한 상품이 쏟아져 나왔고, 그만큼 수많은 광고와 책이 나왔으며 다양한 루트로 키토제닉에 입문하는 사람이 늘었다. 건강한 식단 말고, 그럼 지금까지 일반 다이어트로 살펴보자. 주변을 보면 소소하게는 칼로리가 적은 다이어트 식품을 먹는다. 한의원에 가서 한약을 짓기도하고 쥬비스 같은 전문 서포트 해주는 곳을 간다. 즉, 기업에서 출시한 상품을 쇼핑하듯 고르면 충분했다. 내가 해야할 일은 어디에 시간과 비용을 쓸 건지 선택하는게 전부였다. 그리고 사실 대부분은 덜 먹으라는 거니까 그냥 먹지 않으면 됐는데 키토제닉 식단은 모든 사람에게 맞는 일괄적인 식단이 없기 때문에 본인이 관심과 애정을 가지고 시도해야한다. 블로그나 카페에 올라온 글을 믿고 시도 했는데 오히려 건강을 상해서 알고보니 잘못된 정보였다는 경우도 있지만 보통으 그 경우에 저탄고지가 돌고도는 다이어트 유행이고 효과가 없다고 하는 사람도 있다. 이런 사람들에게 세계인이 시도하고 있는 저탄고지에 대한 정보를 보내준다면, 관심있는 사람들에게 구독을 끌어낼 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/007/beaf.jpg&quot; alt=&quot;고기&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;저탄고지-제품으로-사업을-한다면&quot;&gt;저탄고지 제품으로 사업을 한다면?&lt;/h3&gt;
+
+&lt;p&gt;유행에 편승해 저탄고지 제품을 제작 판매한다고 가정해보자. 그렇다면 어떻게 리드 마그넷을 만들 수 있을까? 많은 사람들이 온라인으로 구매하는게 코로나로 더욱 보편화됐다. 가장 활성화 된 커뮤니티 카페에 들어가서 사람이 어느 것을 구매하는지 카페에서는 어느 제품이 공구가 진행되고 있는지 확인한다. 대부분 큰 카페에는 질문게시판이 있다. 온라인 서점에서는 생각보다 날 것의 리뷰를 쉽게 볼 수 있다. 또, 어떤책이 판매가 잘 되고 있는 지도 확인할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/007/cook-book.jpg&quot; alt=&quot;고기&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;키워드로 찾아들어가면 가장 많이판매되는 책과 리뷰를 확인할 수 있다. 간단하게는 육류의 부위, 고르는 팁과 같은 기본적인 지식부터 키토제닉 입문자가 먹어야할 고기 요리 등 사람들의 시선을 끌만한 콘텐츠와 함께 하단에 저탄고지를 도와주는 음식으로 구매처를 남기면 바로 구입하지 않더라도 한 번쯤 클릭해 보지 않을까?&lt;/p&gt;</content><author><name>루시</name></author><category term="디지털마케팅" /><category term="이메일마케팅" /><category term="리드마그넷" /><category term="디지털노마드" /><summary type="html">리드(Lead)란?</summary></entry><entry><title type="html">소가죽 미친말? 가죽이야기</title><link href="http://localhost:4000/tips/crazy-horse/" rel="alternate" type="text/html" title="소가죽 미친말? 가죽이야기" /><published>2020-05-03T11:30:00+09:00</published><updated>2020-05-03T11:30:00+09:00</updated><id>http://localhost:4000/tips/crazy-horse</id><content type="html" xml:base="http://localhost:4000/tips/crazy-horse/">&lt;p&gt;&lt;img src=&quot;/img/posts/009/cow.jpg&quot; alt=&quot;소&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;소가죽-기본-상식&quot;&gt;소가죽 기본 상식&lt;/h2&gt;
+
+&lt;p&gt;소가죽은 털, 털이 붙어있는 표피, 진피(원피), 피하조직으로 이루어져 있다. 이 소가죽의 진피(원피)는 은면(Grain)과 상면(Split)으로 나눌 수 있다. 표피에 가까운 부분이 은면이고, 피하조직에 가까운 부분이 상면이다. 소가죽의 질은 이 은면으로 결정되는데 부드럽고 탄력이 있기 때문에 베지터블, 천연 가죽 제품이라고 하는 제품이 요 부위로 만들어진다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/009/full-grain.jpg&quot; alt=&quot;소가죽가방&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;소가죽의-종류&quot;&gt;소가죽의 종류&lt;/h2&gt;
+
+&lt;p&gt;풀-그레인(Full-Grain)&lt;/p&gt;
+
+&lt;p&gt;은면이라고도 할 수 있다. 풀 그레인은 가죽의 은면을 그대로 살려 사람의 피부와 같은 천연가죽의 장점인 통기성을 가지고 있으며, 자연스러운 방수가 된다. 가죽의 질감을 그대로 살려 자연스러운 상처, 점 등이 있을 수 있다. 우리가 일반적으로 알고 있는 소의 통가죽 제품이 이 가죽으로 만들어지며, 세심한 관리가 필요하다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;코렉티드-그레인(Corrected-Grain)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;은면이 좋지 않은 가죽, 즉 풀그레인 표면의 잡티같은 흠집을 지워 깨끗하게 하고 수성도료나 합성 수지로 코팅한 가죽이다. 줄여서 CG라고도 부르며, 가죽소파의 99%가 이 가죽으로 제작된다. 생활오염에는 유리하지만, 가죽의 통기성이 감소하고 에이징(Natural Patina)은 불가능한 제품이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;누벅(Nubuk)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;누벅은 벅스킨(사슴가죽)처럼 만든 가죽이라는 의미로 New Buckskin에서 유래했다고 한다. 상처가 있어서 풀그레인으로 쓰지 못하게 될 때는 아주 고운 샌드 페이퍼로 문질러서 보슬보슬하게 기모를 살린 누벅으로 가공한다. 벨벳같은 감촉의 고급가죽이다. 내구성이 강하고, 신으면 신을 수록 착용자의 발모양에 맞게 변형이 된다. 표피 부분을 갈아내서 더 통기성이 좋으므로 등산화에 많이 사용된다. 오염에 약하고 세탁력이 좋지 않다는 게 단점이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;스플리트(Split)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;진피의 상부는 풀그레인으로 사용하고 그 아랫 부분 육면층에 가까운 가죽으로 누벅보다 기모가 많은 가죽으로 통풍성이 좋고, 가격이 저렴하다. 풀그레인을 누벅으로 가공할 때 위아래로 나눠서 가공하면 위쪽은 탑그레인, 아래쪽은 스플리트라고 부르기도 한다. 표피가 제거 된 제품이기 때문에 재가공은 필수이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;액션(Pu coated split)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;진피층에 해당하며 스플리트에 폴리우레탄 필름을 입혀 여러가지로 무늬를 낸 가죽으로 주로 운동화에 사용된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;스웨이드(Suede)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;풀그레인의 은면을 깍아내 기모를 낸 가죽으로 세무라고도 불린다. 물에 강한 가죽으로 완전 침수가 아니라면 잘 말려서 사용하면 된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;크레이지호스(crazy horse)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;말 안장 가죽으로 많이 쓰여서 이런 이름이 붙여졌다고 이야기가 있지만 소가죽이다. 풀그레인, 즉 통가죽에 페파질을 하고 오일과 왁스를 추가해서 촉촉하면서도 빈티지한 색감을 낸다.  풀그레인의 광과 누벅의 기모 중간 촉감을 갖고 있다. 2가지 색상이 섞여 보이는 가죽으로 스크래치가 쉽게 나지만 에센스로 문지르면 다시 복원된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/009/diary.jpg&quot; alt=&quot;다이어리&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;최근 구매한 다이어리는 풀그레인(소가죽)을 가공한 크레이지호스인데 심지어 화이트왁스 제품이다. 그래서 가죽의 은면에 남은 새하얀 왁스가 사용하다보면 조금씩 조금씩 벗겨지면서 매끈한 광택이 살아나고 본래의 가죽색이 나타난다고 한다. 물론 받자마자 바로 버핑을 할 수도 있다. 예전에 와디즈에서 펀딩 성공한 아래 에어팟 제품과 같은 재질이다. &lt;a href=&quot;https://www.wadiz.kr/web/campaign/detail/23111&quot;&gt;펀딩페이지 방문하기&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/009/blueairpot.jpeg&quot; alt=&quot;다이어리&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;통관처리가 늦어져서 5월 황금 연휴와 겹쳐서 아직도 배송 중이지만 다음주 중에는 받아볼 수 있지 않을까? 한국에서 판매하는 곳이 없어서 실물은 아직 보지 못했기 때문에 곧 만나게 될 화이트왁스 다이어리가 조금 기대된다.&lt;/p&gt;</content><author><name>루시</name></author><category term="디지털마케팅실습" /><category term="구글애즈" /><category term="가죽" /><summary type="html"></summary></entry><entry><title type="html">오로라 여행준비하기</title><link href="http://localhost:4000/digitalmarketing/yellowknife-2/" rel="alternate" type="text/html" title="오로라 여행준비하기" /><published>2020-04-18T11:30:00+09:00</published><updated>2020-04-18T11:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/yellowknife-2</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/yellowknife-2/">&lt;h2 id=&quot;여행-준비하기&quot;&gt;여행 준비하기&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/008/insurance.png&quot; alt=&quot;여행자보험&quot; /&gt;&lt;/p&gt;
 
@@ -558,100 +642,4 @@
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/003/luck.jpg&quot; alt=&quot;행운&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;모든 도박에는 초심자의 행운이 있다. 블랙잭 룰 중에 같은 숫자가 나오면 스플릿을 할 수 있다. 패를 두 개로 나누어 게임을 동시에 두 번 할 수 있는 건데, 또 똑같은 숫자가 나오면 추가로 또 스플릿을 할 수 있다. 그러면 한 번에 세 게임을 하는 건데, 내가 에이스 카드 세 개가 연속으로 나왔고, 그 다음 카드는 영문카드 두 장과 숫자 10이 나왔다. 즉, 트리플 블랙잭 !!! 하나 씩 나올때마다 우와, 우와, 우와아아 소리 질렀고, 그때 100달러 칩을 처음 만져봤다. 동생이 창피하다고 그래서 빠르게 정리하고 그 자리를 뜨는 바람에 초심자의 행운을 그대로 날리지 않고 지킬 수 있었다.&lt;/p&gt;</content><author><name>루시</name></author><category term="독서일기" /><category term="책리뷰" /><category term="감상문" /><category term="블랙잭" /><summary type="html">저자 : 하야마 아마리 / 예담출판사</summary></entry><entry><title type="html">저탄수화물 고지방 (Low Carb.High Fat) 식이요법</title><link href="http://localhost:4000/ketogenic/lchf/" rel="alternate" type="text/html" title="저탄수화물 고지방 (Low Carb.High Fat) 식이요법" /><published>2020-02-12T15:10:00+09:00</published><updated>2020-02-12T15:10:00+09:00</updated><id>http://localhost:4000/ketogenic/lchf</id><content type="html" xml:base="http://localhost:4000/ketogenic/lchf/">&lt;h3 id=&quot;저탄수화물-고지방-low-carb-high-fat-lchf-식이요법&quot;&gt;저탄수화물 고지방 (Low Carb. High Fat, LCHF) 식이요법&lt;/h3&gt;
-
-&lt;p&gt;대부분의 대사질환의 원인은 인슐린 저항성과 관계가 있다. 인슐린 호르몬에 이상이 생기는 것이 당뇨병이니까. 이러한 병의 원인은 과도한 정제탄수화물 섭취로 일어난다고 한다. 당뇨병에 걸리면 완치가 없고, 평생 조심하고 살아야 하는데 저는 가족력이 있기때문에 더더욱 미리 조심해야한다. 우리 어머니역시도 조심하고 있다. ‘저탄고지 식사법은 대사질환을 효율적으로 예방, 치료할수 있는 식이요법으로 탄수화물 섭취를 최대한 줄이고 대신 지방을 내몸의 에너지의 주원료로 사용하면서 탄수화물 섭취로 인해 발생하는 비만, 당뇨병, 고지혈증 등의 대사 이상을 예방, 호전시킬 수 있다.’고 한다. 물론 질병이 아니니까, 병을 고치는 것 만큼은 아니겠지만서도… 사실 도전을 결심하게 된 이유는 ‘정전 상태에 빠진 뇌를 리부트할 수 있다’ 했기 때문이었으니까. 요즘 기억력 감퇴, 만성피로에.. 이해도가 너무 떨어지고, 텍스트가 잘 읽히지 않았는데.. 그걸 노화로 의심햇던 내 몸에게 미안함을 전하며, 번아웃된 뇌을 회복시키는 두뇌 강화 프로그램에 도전하기로 했다.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post/01/keto-vegetable-oil.jpg&quot; alt=&quot;오일이미지&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;지방을-먹어서-살이-찌면-어떡하지&quot;&gt;지방을 먹어서 살이 찌면 어떡하지?&lt;/h3&gt;
-
-&lt;p&gt;사실 살을 찌우는 것은 탄수화물이며, 비만의 원인은 칼로리보다는 호르몬의 문제라고 전문가들을 말하고 있다. 이 중에서도 인슐린과 렙틴이 크게 관여하는데 저탄수화물식단은 이 두 호르몬이 저항성을 호전시켜주기 때문에 지방의 섭취를 추천하고 있다는데…. 최근 ‘지방의 누명’으로 인해 키토제닉 식단이 재조명 받고 있다. 타이밍 맞게 ‘기적의 식단’ 이라는 책도 나왔기도 하고. 의사쌤 말씀으로는 칼로리제한식이나 저지방식이 체중감량에서 한번도 저탄수화물식단을 이겨본 적이 없다고 한다. 칼로리를 제한하는 저지방식은 대사는 닫히고, 갑상선 기능이 저하되며, 결국 만족한 수준에 도달하더라도 허기와 식욕을 참지 못해 요요현상이 나타난다고… 물론 나는 다이어트가 1차 목적은 아니지만, 비만도가 낮아지면 좋은거니까. 근데, 칼로리를 제한하면서 격한 운동까지 하면 우리몸의 에너지 수준은 더 떨어지고, 세포는 망가진다. 그러나 저단고지 식단은 배부를 만큼 먹고, 허기짐이 없고, 식욕이 억제되며, 체중감소에 따른 근육의 손실을 최소화하면서 에너지 수준이 떨어지지 않고 오히려 넘칠수 있다고 한다. 케톤적응상태에 이르면 우리몸은 지방을 태우는 몸이 되고, 일반적으로 유산소운동을 하면 20-30분후부터 지방을 태우기 시작하지만, 케톤적응상태에서는 운동 시작때부터 지방을 태우기 시작한다고 하는데… 즉, 비교적 적은 강도의 운동으로도 훨씬 더 효과적으로 지방을 태울수 있다. 오랫동안 수영을 다니다 말다 했었는데, 수영은 대표적인 유산소 운동이라 재등록을 하지 말아야할까 고민 중이다. 우선 필라테스는 열심히 하고 있다.&lt;/p&gt;
-
-&lt;h3 id=&quot;지방의-역할&quot;&gt;지방의 역할&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;투과성을 조절할 수 있는 세포막&lt;/li&gt;
-  &lt;li&gt;칼슘과 같은 미네랄 흡수&lt;/li&gt;
-  &lt;li&gt;지용성 비타민인 A, D, E, K의 캐리어 역할&lt;/li&gt;
-  &lt;li&gt;카로텐을 비타민 A로 전환&lt;/li&gt;
-  &lt;li&gt;콜레스테롤 수치를 낮추는데 도움&lt;/li&gt;
-  &lt;li&gt;항균, 항진균, 항바이러스제 역할 (caprylic acid)&lt;/li&gt;
-  &lt;li&gt;케톤으로 전환되어 뇌에까지 적정 연료를 공급&lt;/li&gt;
-  &lt;li&gt;포만감유지&lt;/li&gt;
-  &lt;li&gt;암 예방 도움(butyric acid)&lt;/li&gt;
-  &lt;li&gt;탄수화물에 비해 free radical을 훨씬 적게 만듬&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;지방의-장점&quot;&gt;지방의 장점&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;가볍다 :  탄수화물, 단백질은 수분을 함유하여 무겁다.&lt;/li&gt;
-  &lt;li&gt;에너지가 높다 : 탄수화물이나 단백질 4kcal/g 대비 9kcal/g로 2배 이상이다.&lt;/li&gt;
-  &lt;li&gt;독성이 낮다 : 포도당,아미노산은 단당류로 있으면 혈액에 무리가 된다.&lt;/li&gt;
-  &lt;li&gt;저장이 편하다 : 쉽게 지방끼리 뭉친다.&lt;/li&gt;
-  &lt;li&gt;천천히 쓰인다 : 용해도가 낮아 일단 지방으로 뭉치면 녹이기 쉽지 않다.&lt;/li&gt;
-  &lt;li&gt;탄력이 있고 단열성이 높다 : 체온유지, 상처보호에 유리하다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-  &lt;iframe src=&quot;https://www.youtube.com/embed/BX56_wteTUA&quot; width=&quot;700&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
-  &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post/01/headache.jpg&quot; alt=&quot;두통&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;저탄수화물-고지방식-lchf-의-장점&quot;&gt;저탄수화물 고지방식 (LCHF) 의 장점&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;근육은 유지하며, 체지방만 감소&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;뇌 리부트, 명료한 정신&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;충만한 에너지&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;배고픔이 없음&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;자기면역질환 호전 및 염증 억제&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;숙면에 도움&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;만성피로의 호전&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;근력, 근지구력의 상승&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;장건강&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;건강한 피부와 손톱, 탈모 호전&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;호르몬 불균형 호전&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;노화 억제&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;지방간 호전&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;고지혈증치료, 순환기 질환 호전&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;당뇨병 치료&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;암 억제&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;사실, 지방은 너무나 훌륭한 비축의 수단이어서 우리는 여러 통로를 통해 단백질, 탄수화물으로 부터도 지방을 만들 수 있게 진화되었다. 초식을 하는 동물은 지방의 축적될 여유가 없다. 곡류를 섭취하여야 비육해질 수 있다. 멧돼지의 지방함량은 체중의 4% 정도고 꿩은 2.5%가 지방이다. 사육돼지의 지방함량은 25~40%이며, 사육 닭은 25%의 지방을 가지고 있다고 한다. 지방은 체중의 3% 이하여도 충분하다는 이야기다. 동물만 보더라도 잉여 탄수화물이 지방으로 비축되고 있다. 지방은 죄가 없다.&lt;/p&gt;</content><author><name>루시</name></author><category term="키토제닉" /><category term="저탄고지" /><category term="LCHF" /><category term="두뇌부스팅" /><summary type="html">저탄수화물 고지방 (Low Carb. High Fat, LCHF) 식이요법</summary></entry></feed>
+&lt;p&gt;모든 도박에는 초심자의 행운이 있다. 블랙잭 룰 중에 같은 숫자가 나오면 스플릿을 할 수 있다. 패를 두 개로 나누어 게임을 동시에 두 번 할 수 있는 건데, 또 똑같은 숫자가 나오면 추가로 또 스플릿을 할 수 있다. 그러면 한 번에 세 게임을 하는 건데, 내가 에이스 카드 세 개가 연속으로 나왔고, 그 다음 카드는 영문카드 두 장과 숫자 10이 나왔다. 즉, 트리플 블랙잭 !!! 하나 씩 나올때마다 우와, 우와, 우와아아 소리 질렀고, 그때 100달러 칩을 처음 만져봤다. 동생이 창피하다고 그래서 빠르게 정리하고 그 자리를 뜨는 바람에 초심자의 행운을 그대로 날리지 않고 지킬 수 있었다.&lt;/p&gt;</content><author><name>루시</name></author><category term="독서일기" /><category term="책리뷰" /><category term="감상문" /><category term="블랙잭" /><summary type="html">저자 : 하야마 아마리 / 예담출판사</summary></entry></feed>
