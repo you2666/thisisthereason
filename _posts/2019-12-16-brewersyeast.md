@@ -35,4 +35,5 @@ description: 좋아지는 건 플라시보 효과인가 의심스럽지만, 정�
 
 
 
-### [다음, '비타민 C' 계속보기](https://lucyketogenic.com/vitamin-c/)
+### [다음, '비타민 C' 계속보기](https://thisisthereason.com/vitamin-c/)
+
