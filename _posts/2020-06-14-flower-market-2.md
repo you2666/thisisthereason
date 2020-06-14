@@ -51,5 +51,5 @@ description: 이어서 고속터미널 경부선 3층 화훼상가에서 꽃을 
 
 나는 그냥 절화수명연장제를 구매했고, 우리집에 있는 꽃 친구들은 저렇게 줄기가 통째로 사라진 친구까지 나흘째 잘 살아있다. 다음에는 꽃바구니에 도전해봐야지.
 
-### [돌아가기, 1편 꽃 시장 이용하기](https://thisisthereason.com/flower-market-1/)
+### [돌아가기, 1편 꽃 시장 이용하기](https://thisisthereason.com/tips/flower-market-1/)
 
