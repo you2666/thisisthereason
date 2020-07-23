@@ -2,6 +2,7 @@
 layout: post
 permalink: /ketogenic/bulletproof/
 title: 불릿프루프(bulletproof), 방탄커피란?
+content_id: keto005
 date: 2020-02-01 20:00:00 +09:00
 feature: /img/thumbnail/headstrong.jpeg
 background: /img/post/01/bg_heosang-jeon.jpg

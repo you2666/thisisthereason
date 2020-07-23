@@ -2,6 +2,7 @@
 layout: post
 permalink: /ketogenic/formom/
 title: 키토제닉 시작, 여자가 알아야 할 것
+content_id: keto004
 date: 2020-03-20 11:00:00 +09:00
 feature: /img/thumbnail/femaleguide.jpg
 background: /img/post/01/bg_heosang-jeon.jpg

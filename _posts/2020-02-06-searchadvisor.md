@@ -1,7 +1,8 @@
 ---
 layout: post
 permalink: /digitalmarketing/searchadvisor/
-title: '네이버 서치어드바이저'
+title: 네이버 서치어드바이저
+content_id: dima002
 date: 2020-02-06 07:30:00 +09:00
 feature: '/img/posts/002/naver-search.jpg'
 background: '/img/posts/002/back-digitalmarketing.jpg'

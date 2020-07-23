@@ -2,6 +2,7 @@
 layout: post
 permalink: /digitalmarketing/yellowknife-2/
 title: 오로라 여행준비하기
+content_id: dima005
 date: 2020-04-18 11:30:00 +09:00
 feature: /img/posts/008/baggage.jpg
 background: /img/posts/008/back-baggage.jpg

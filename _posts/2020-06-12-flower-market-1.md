@@ -2,6 +2,7 @@
 layout: post
 permalink: /tips/flower-market-1/
 title: 고속터미널 새벽 꽃 시장, 영업시간, 이용방법
+content_id: tipsf001
 date: 2020-06-12 07:30:00 +09:00
 feature: /img/posts/010/flower-1.jpg
 background: /img/posts/010/garden-2.jpg

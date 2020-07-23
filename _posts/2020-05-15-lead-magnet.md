@@ -2,6 +2,7 @@
 layout: post
 permalink: /digitalmarketing/lead-magnet/
 title: 토끼를 꼬시는 당근, 리드마그넷
+content_id: dima006
 date: 2020-05-15 07:30:00 +09:00
 feature: /img/posts/007/rabbit.jpg
 background: /img/posts/007/strategy.jpg

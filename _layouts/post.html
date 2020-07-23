@@ -53,3 +53,12 @@ layout: default
   </article>
 
   {% include code-copy.html %}
+
+  <script>
+    dataLayer.push({
+      'event' : 'ViewContent',
+      'content_name' : '{{ page.title }}',
+      'content_ids' : '{{ page.content_id }}'
+    });
+  </script>
+  <!-- 궁금한 점 : 데이터 영역에 event 가 아니라 ViewContent 가 들어가는 이유는? -->

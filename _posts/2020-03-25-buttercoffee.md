@@ -2,6 +2,7 @@
 layout: post
 permalink: /ketogenic/buttercoffee/
 title: 사 먹는 방탄커피 NO
+content_id: keto008
 date: 2020-03-25 10:00:00 +09:00
 feature: /img/thumbnail/cafe.jpg
 background: /img/post/01/bg_heosang-jeon.jpg

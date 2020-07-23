@@ -2,6 +2,7 @@
 layout: post
 permalink: /tips/crazy-horse/
 title: 소가죽 미친말? 가죽이야기
+content_id: tips005
 date: 2020-05-03 11:30:00 +09:00
 feature: /img/posts/009/leather.jpg
 background: /img/posts/009/leather.jpg

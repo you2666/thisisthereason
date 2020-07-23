@@ -1,22 +1,22 @@
 ---
 layout: post
-permalink: /digitalmarketing/google-tag-manager/
-title: 구글 태그 매니저(GTM)
-content_id: dima007
-date: 2020-07-11 11:30:00 +09:00
-feature: /img/posts/011/about_gtm.jpg
-background: /img/posts/011/gtm-logo.jpg
+permalink: /digitalmarketing/marketing-kekword/
+title: 디지털 마케팅 용어 정리
+content_id: dima008
+date: 2020-07-22 11:30:00 +09:00
+feature: /img/posts/012/.jpg
+background: /img/posts/012/.jpg
 categories:
   - digitalmarketing
 tags:
   - 디지털마케팅
   - 마케팅공부
-  - 구글태그매니저
+  - 마케팅용어
   - 디지털노마드
-description: 고객이 우리의 비즈니스에 얼마만큼의 관심이 있는지, 자사가 진행하는 마케팅 활동이 과연 효과를 내고 있는지 측정이 가능한 매력적인 디지털의 세계. 최근 GTM 강의를 들었다. 전에 배웠고, 실습도 했었으니 단순히 리마인드를 하겠다고 간 거였는데, 참 새로웠다. 까먹지 않겠다는 의지로 GTM 활용법에 대해서 꼼꼼히 기록해두자.
+description: 마케팅 용어에 대해 알아보자. 맨날 찾아보는 것도 지겨우니까 한 번에 정리하기.
 ---
 
-## 구글 태그 매니저 Google Tag Manager
+## 첨부텀.. 구글 태그 매니저 Google Tag Manager
 
 ![구글태그매니저](/img/posts/011/gtm_main.jpg)
 

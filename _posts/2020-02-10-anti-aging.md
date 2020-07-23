@@ -2,6 +2,7 @@
 layout: post
 permalink: /ketogenic/anti-aging/
 title: 두뇌를 리부팅해보자
+content_id: keto006
 date: 2020-02-10 07:30:00 +09:00
 feature: /img/thumbnail/main-ketogenic.jpeg
 background: /img/post/01/bg_heosang-jeon.jpg

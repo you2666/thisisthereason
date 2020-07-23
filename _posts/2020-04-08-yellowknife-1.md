@@ -2,6 +2,7 @@
 layout: post
 permalink: /digitalmarketing/yellowknife-1/
 title: 캐나다 오로라 여행
+content_id: dima004
 date: 2020-04-08 11:30:00 +09:00
 feature: /img/posts/008/back-dance.jpg
 background: /img/posts/008/back-dance.jpg

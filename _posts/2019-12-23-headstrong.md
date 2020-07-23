@@ -2,6 +2,7 @@
 layout: post
 permalink: /ketogenic/headstrong/
 title: 헤드스트롱(headstrong), 2주 프로그램
+content_id: keto001
 date: 2019-12-23 20:00:00 +09:00
 feature: /img/thumbnail/headstrong.jpeg
 background: /img/post/01/bg_heosang-jeon.jpg

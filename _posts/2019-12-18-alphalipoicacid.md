@@ -2,6 +2,7 @@
 layout: post
 permalink: /tips/alphalipoicacid/
 title: 건기식 3 - 알파리포산(Alpha Lipoic Acid)
+content_id: tips003
 date: 2019-12-18 20:00:00 +09:00
 feature: /img/thumbnail/vitamin-01.jpeg
 background: /img/post/01/functionalfood.jpg

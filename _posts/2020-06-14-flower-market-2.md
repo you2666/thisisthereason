@@ -2,6 +2,7 @@
 layout: post
 permalink: /tips/flower-market-2/
 title: 프렌치 꽃다발 만들기
+content_id: tipsf002
 date: 2020-06-14 07:30:00 +09:00
 feature: /img/posts/010/flower3-2.jpg
 background: /img/posts/010/garden-1.jpg

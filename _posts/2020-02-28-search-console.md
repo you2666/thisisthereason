@@ -1,10 +1,11 @@
 ---
 layout: post
 permalink: /digitalmarketing/search-console/
-title: '구글 서치 콘솔'
+title: 구글 서치 콘솔
+content_id: dima003
 date: 2020-02-28 07:30:00 +09:00
-feature: '/img/posts/005/search-console.jpg'
-background: '/img/posts/002/back-digitalmarketing.jpg'
+feature: /img/posts/005/search-console.jpg
+background: /img/posts/002/back-digitalmarketing.jpg
 categories:
   - digitalmarketing
 tags:
