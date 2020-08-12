@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-01T22:54:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">와이두유리브</title><subtitle>독서리뷰와 마케팅 이야기. 사는대로 생각하지 말고, 생각하는 대로 살기.</subtitle><author><name>루시</name></author><entry><title type="html">디지털 마케팅 용어 정리</title><link href="http://localhost:4000/digitalmarketing/marketing-kekword/" rel="alternate" type="text/html" title="디지털 마케팅 용어 정리" /><published>2020-07-29T11:30:00+09:00</published><updated>2020-07-29T11:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/marketing-keyword</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/marketing-kekword/">&lt;h2 id=&quot;마케팅-용어-정리&quot;&gt;마케팅 용어 정리&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-12T23:18:17+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">와이두유리브</title><subtitle>독서리뷰와 마케팅 이야기. 사는대로 생각하지 말고, 생각하는 대로 살기.</subtitle><author><name>루시</name></author><entry><title type="html">디지털 마케팅 용어 정리</title><link href="http://localhost:4000/digitalmarketing/marketing-kekword/" rel="alternate" type="text/html" title="디지털 마케팅 용어 정리" /><published>2020-08-08T11:30:00+09:00</published><updated>2020-08-08T11:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/marketing-keyword</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/marketing-kekword/">&lt;p&gt;텍스트로 정리하려고 하니 생각보다 내가 아는 게 없다는 생각이 든다. 특히 마케팅 업계는 계속 배워야 하고 알아야 하는게 많아서 그 만큼 스트레스를 받기도 하지만, 또 그만큼 재밌기도 하다. 최근 잘 생각이 나지 않았던 케밥 아이콘 이름을 찾다가 용어를 정리해보자는 생각을 하게 됐다. 아래는 그 문제의 아이콘 이름. 햄버거는 참 쉽게 기억을 하는데 다른 건 왜 자꾸 까먹는지 모르겠다. 이제 안까먹겠지.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/012/menu-hamburger.jpg&quot; alt=&quot;아이콘-햄버거&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/012/menu-bento.jpg&quot; alt=&quot;아이콘-벤또&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;마케팅-용어-정리&quot;&gt;마케팅 용어 정리&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/012/team-meeting.jpg&quot; alt=&quot;팀회의&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;텍스트로 정리하려고 하니 생각보다 아는 게 없다는 생각이 든다. 그리고 표는 왜 이렇게 가독성이 떨어지는 건지. 표에 선은 어떻게 넣는가. 서른이 넘었는데도 여전히 세상에는 참 배울게 많다.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -473,7 +477,7 @@
       &lt;td style=&quot;text-align: left&quot;&gt;UX (User Experience) 사용자가 어떤 제품, 시스템, 서비스 등을 직접적 또는 간접적으로 이용하면서 느끼는 반응과 행동 같은 경험을 말한다. UI의 경우 사람과 시스템의 접점을 의미하며, 접근성 및 편의성을 중시한다. UX의 경우 UI를 통해 사용자가 제품과 서비스, 회사와 상호작용하며 느끼는 만족이나 감정을 의미 한다.&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>루시</name></author><category term="디지털마케팅" /><category term="마케팅공부" /><category term="마케팅용어" /><category term="디지털노마드" /><summary type="html">마케팅 용어 정리</summary></entry><entry><title type="html">구글 태그 매니저(GTM)</title><link href="http://localhost:4000/digitalmarketing/google-tag-manager/" rel="alternate" type="text/html" title="구글 태그 매니저(GTM)" /><published>2020-07-11T11:30:00+09:00</published><updated>2020-07-11T11:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/google-tag-manager</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/google-tag-manager/">&lt;h2 id=&quot;구글-태그-매니저-google-tag-manager&quot;&gt;구글 태그 매니저 Google Tag Manager&lt;/h2&gt;
+&lt;/table&gt;</content><author><name>루시</name></author><category term="디지털마케팅" /><category term="마케팅공부" /><category term="마케팅용어" /><category term="디지털노마드" /><summary type="html">텍스트로 정리하려고 하니 생각보다 내가 아는 게 없다는 생각이 든다. 특히 마케팅 업계는 계속 배워야 하고 알아야 하는게 많아서 그 만큼 스트레스를 받기도 하지만, 또 그만큼 재밌기도 하다. 최근 잘 생각이 나지 않았던 케밥 아이콘 이름을 찾다가 용어를 정리해보자는 생각을 하게 됐다. 아래는 그 문제의 아이콘 이름. 햄버거는 참 쉽게 기억을 하는데 다른 건 왜 자꾸 까먹는지 모르겠다. 이제 안까먹겠지.</summary></entry><entry><title type="html">구글 태그 매니저(GTM)</title><link href="http://localhost:4000/digitalmarketing/google-tag-manager/" rel="alternate" type="text/html" title="구글 태그 매니저(GTM)" /><published>2020-07-11T11:30:00+09:00</published><updated>2020-07-11T11:30:00+09:00</updated><id>http://localhost:4000/digitalmarketing/google-tag-manager</id><content type="html" xml:base="http://localhost:4000/digitalmarketing/google-tag-manager/">&lt;h2 id=&quot;구글-태그-매니저-google-tag-manager&quot;&gt;구글 태그 매니저 Google Tag Manager&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/011/gtm_main.jpg&quot; alt=&quot;구글태그매니저&quot; /&gt;&lt;/p&gt;
 
